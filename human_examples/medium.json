@@ -1,0 +1,17 @@
+[
+  {
+    "problem": "Neither the mountain of unread submissions nor [the myriad] (B) footnotes buried in the appendix [have been reviewed] (C) by the editorial team [despite] (D) multiple reminders circulated through internal memos and follow-up emails, [each increasingly] (E) terse and exasperated.",
+    "answer": "C",
+    "type": "AGREE"
+  },
+  {
+    "problem": "The violinist performed the final movement[, wearing a sequined jacket once owned by a Hungarian virtuoso,] (B) to a jury of professors [who had] (C) studied under Bartók [and] (D) [whose] (E) applause was hesitant.",
+    "answer": "B",
+    "type": "MM"
+  },
+  {
+    "problem": "I know [that] (B) you [knew] (C) that I'm [as wise as] (D) [him] (E).",
+    "answer": "E",
+    "type": "CASE"
+  }
+]

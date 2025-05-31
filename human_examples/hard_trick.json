@@ -1,0 +1,27 @@
+[
+  {
+    "problem": "[There] (B) is a common belief [that] (C) pirates killed [whoever] (D) they saw, but [this] (E) belief is false.",
+    "answer": "D",
+    "type": "CASE"
+  },
+  {
+    "problem": "Leo believes [that] (B) the average human is [much] (C) [more] (D) feeble [than I] (E).",
+    "answer": "E",
+    "type": "CASE"
+  },
+  {
+    "problem": "Once the memoir was released, [with its] (B) fragmented prose and deliberately inconsistent chronology, [it became clear] (C) that the audience would not respond uniformly, [a response which] (D) frustrated reviewers who struggled to determine its purpose, [they wondered whether it was meant to alienate.] (E)",
+    "answer": "A",
+    "type": "A"
+  },
+  {
+    "problem": "If I [was] (B) in Ms. Tan's class and [in] (C) your situation, I would ask the academic dean[, who is very harsh,] (D) and [Ms. Tan] (E) for an extension on the history paper.",
+    "answer": "B",
+    "type": "AGREE"
+  },
+  {
+    "problem": "[The pot boiling from the flames,] (B) the special potion was made by the evil witch [despite] (C) the [pot’s] (D) [near] (E) bursting.",
+    "answer": "A",
+    "type": "A"
+  }
+]

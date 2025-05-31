@@ -1,0 +1,283 @@
+# MEGABLUNDERS GUIDE
+
+## FRAGMENTS (FRAG)
+
+One of the essential tests of literacy is sentence completeness: does the writer know where his sentences begin and end? A fragment (FRAG) is the most basic form of sentence completeness error. It is a structure that has been punctuated as if it were a sentence but that does not contain a main clause.
+
+A structure can go on for a great many words and still be a fragment. Some of those words can be nouns and verbs, and some of those nouns and verbs can even stand in subject-verb relationships. Still, the structure is a FRAG if it does not contain a main clause.
+
+The following FRAG is an extended noun phrase:
+a man who, when he is confronted with challenges, becomes pompous and belligerent instead of applying his reason
+
+The following FRAG is an extended adverb clause:
+because she, of all her boarding school classmates interested in theater, was the only one who actually pursued and achieved a career on the professional stage
+
+The following FRAG is an extended participial phrase:
+overcome with the realization that he had squandered the only opportunity that he would ever have to score a goal in a game against Nobles
+
+All three examples are longer than many sentences, but none of them contains a main clause. (Note that many subordinate clauses do, in a sense, "contain" a main clause; however, such a clause must be taken as a whole--it cannot be detached from the word that marks it as subordinate.)
+
+In some kinds of writing, especially in advertisements or in narrative with a colloquial flavor, writers use fragments intentionally for drama, for variety, or for a sense of immediate experience, uncushioned by formality:
+ 	Jared went to the window and drew the curtain. Rain again.
+
+## RUN-ON SENTENCES (ROS)
+
+In a fragment, a writer ends her sentence prematurely, before it is complete. In a run-on sentence (ROS), she allows it to go on too long. However, the definition of a run-on sentence has to do with grammar and punctuation, not with length. In fact, a run-on may be as short as four words ("Dogs bark, mailmen flee"); and a sentence hundreds of words long and bristling with phrases and clauses may not be a run-on at all. A run-on is a sentence that contains two or more main clauses without adequate punctuation between them.
+
+Unless they are connected by a coordinating conjunction, main clauses require a full stop between them. Full stops include the period, the semicolon, the colon, the question mark, the exclamation point, and the dash:
+ 	The sun came out. People returned to the terrace with their drinks.
+ 	The hedgehog curled into a ball; it hissed like a small radiator.
+ 	Chess is a difficult game: it requires great concentration.
+ 	What was the answer? Teresa thought she knew it.
+ 	How heavy the pack was! Jieming longed for a rest.
+ 	You should avoid the back stairs--they are steep and rickety.
+These different punctuation marks express subtly different relationships between the ideas they connect. However, they are all grammatically correct for joining main clauses. In any of the examples above, replacing the full stop with a comma (or, worse, with no punctuation at all) would create a run-on sentence.
+
+Somewhat surprisingly, main clauses connected by a conjunctive adverb also require a full stop between them. Ignorance of this requirement probably results in more run-ons than any other cause. A conjunctive adverb is a word of the "however" class. The most commonly used conjunctive adverbs are "however," "moreover," "nevertheless," "therefore," "thus," and "in fact." When one of them appears between the two clauses, you must use a period or semi-colon before it and, ordinarily, a comma after it:
+The stream was swollen with a week of rain; moreover, it was full of sharp rocks and downed trees.
+He had never batted left-handed before; in fact, he had never even played baseball.
+Omitting the comma from these examples would not be a serious error. Omitting the semi-colon or changing it to a comma would create a run-on.
+
+Conjunctive adverbs do not always appear between the two clauses. They may also be placed in the middle of or even at the end of the second clause. In this situation, the full stop does not move with the conjunctive adverb; it remains between the clauses:
+
+Coughlin ran a high fever on race day; her time, nevertheless, was good for second place.
+
+Ramsey thought that he could get to the lighthouse and back before nightfall; he had not reckoned on the tides, however.
+
+When two main clauses are connected by a coordinating conjunction, a comma is adequate punctuation:
+
+We must all hang together, or we will all hang separately.
+
+He looked for her everywhere, but she had disappeared without a trace.
+
+Kate runs a strict house, and her clients respect her for her professionalism.
+
+If one or both of the clauses contain internal commas, you should ordinarily change the comma between them to a semi-colon in order to mark the main break in the sentence:
+
+The criminal, whose name was Abel Magwitch, appreciated Pip's help; and, years later, he found a way to repay the boy.
+
+## PRONOUN REFERENCE (PR)
+
+Faulty pronoun reference (PR) is an error with serious consequences for communication. Fragments and run-on sentences ordinarily do not obscure a writer's meaning; bad pronoun reference does.
+
+The essential principle in using pronouns is that each pronoun must refer clearly to a single noun. As a test, you should be able to put your finger on the noun that a given pronoun refers to. If you can't find one--if you can't choose among two or more nouns, or if you need to put your palm over an entire clause--you have discovered a PR error.
+
+Faulty PR usually falls into one of two categories: ambiguous and general. When the reference is ambiguous, the pronoun could logically refer to more than one noun, and there is no way to be sure which noun the writer intended:
+
+Jack opened his report card and took it to his father. He was absolutely delighted by the grades.
+
+Claudia told Ruth that she had left the oven on.
+
+In the first example, we don't know who was delighted. A set of grades that delighted Jack (because he knew how much worse they might have been) would not necessarily delight a father with more absolute standards. In the second example, we don't know who left the oven on. Was Claudia scolding Ruth for negligence, or confessing to a mistake?
+
+Much more common than ambiguous reference is general reference. Here, the pronoun refers to no noun at all; it refers instead to an idea that is spread out over an entire clause or more. The leading offenders in general reference are demonstrative pronoun this and relative pronoun which:
+
+While the boat was at the dock, it repeatedly banged against the pilings because Angus had forgotten to use the bumpers, and the paint was scratched in several places; this annoyed Richard very much.
+
+The book explains how working class people in Kansas have been conned into voting against their own interests, which has special relevance in an election year.
+
+In the first example, this may refer to the banging, to Angus's forgetfulness, to the scratches, or to all three. In the second example, which refers to the entire how clause, not to any particular noun in it.
+
+## AGREEMENT (AGREE)
+
+Agreement is the matching of certain grammatical features, primarily number. Singulars go with singulars and plurals with plurals. When two parts of a sentence that should agree do not, the sentence becomes incoherent; it seems like two different sentences that the writer has roughly jammed together.
+
+Two common grammatical relationships require agreement: the relationship of subject to verb and the relationship of noun to pronoun or possessive adjective.
+
+### 1) Agreement of Subject and Verb
+
+The rule is simple and straightforward--singular subject, singular verb; plural subject, plural verb--and writers usually follow it automatically, without having to think about it. No one would write "The milkmaid milk the cow" or "The foxes steals the chickens."
+
+As long as the subject and verb are next to each other, agreement tends to happen naturally. In complex writing, however, subject and verb are often separated from one another--for example, by a prepositional phrase or adjective clause that modifies the subject. In this situation, the number of a noun in the intervening structure may distract the writer from the subject-verb relationship and cause an AGREE error:
+
+A peculiarity of all seagoing mammals have frustrated researchers for years.
+
+The short stories that Hemingway collected in his classic In Our Time opens a window onto life in the early 20th century.
+
+In the first example, a verb that has a singular subject becomes plural because of the influence of the intervening plural noun mammals. In the second example, a verb that has a plural subject becomes singular because of the intervening singular book title. To prevent such errors, a writer must pay enough attention so that when he arrives at the verb he remembers what the subject was.
+
+A few special conditions govern subject-verb agreement:
+
+a. Subjects connected by "and" are plural even when both nouns are singular:
+ 	Modification and coordination are among the most basic grammatical processes.
+
+b. Subjects connected by "or" or "nor" are singular if both nouns are singular:
+ 	Either Whitman or Dickinson provides readers an extraordinary poetic experience.
+If one of the subjects is plural, the verb agrees with the nearer subject:
+ 	Neither Garciaparra nor his many fans are happy about the trade.
+
+c. The pronouns each, everyone, and anyone are singular:
+ 	Each of the books is at least 600 pages long.
+ 	The club rule is that everyone buys his own drinks.
+
+d. Collective nouns are singular when they refer to the group as a whole, plural when they refer to the individuals in it:
+ 	The faculty decides all academic issues.
+ 	In June, the faculty disperse to their summer homes.
+
+### 2) Agreement of Pronoun and Antecedent
+
+The antecedent of a pronoun is the noun to which it refers. In the sentence, "When Robert reached his car, he realized he had forgotten his keys,"the antecedent of the pronouns "he" and "his" is the noun "Robert."
+A pronoun should agree with its antecedent in number, gender, and person. "Robert" is a third-person, singular, masculine noun, so the pronouns that refer to Robert are likewise third-person, singular, and masculine.
+Where agreement in number, gender, and person is possible, it should be rigorously observed. The following sentences are examples of errors in pronoun-antecedent agreement:
+    As the reader, we sympathize with Oedipus.
+    Neither of the boys knows for sure how they will do on the test.
+    Viewing this painting, one can't help but think of your own childhood.
+In the first example, the reader is singular and clashes with the plural we. In the second example, neither and its singular verb, knows, tell us that the boys are being considered one at a time, not together; the plural they disagrees with the singular neither. In the third example, the writer begins with a third-person singular pronoun, one, but then shifts for no reason to a second-person pronoun, your. A shift to his, her, or their would be similarly unnecessary and distracting.
+A note on the singular use of "they": Some people who identify as neither male nor female prefer to be referred to in the third-person singular with the pronoun "they." Such preferences should be respected.
+
+## PARALLELISM (PAR)
+
+Parallelism in grammar is the principle that ideas in pairs or in a series should be expressed in similar grammatical structures. Like agreement, well-used parallel structure contributes to the coherence of a sentence, giving a sense of order and discipline. When the conditions for parallelism exist and the writer uses dissimilar structures, the effect is wrenching.
+
+Several conditions require parallel structure. To avoid errors in parallelism (PAR), you need to recognize these conditions:
+
+### 1. Ideas Connected by Coordinating Conjunctions
+
+By definition, coordinating conjunctions connect ideas of equal importance; these ideas must also be grammatically parallel. In the following sentence, the writer has made the mistake of balancing a noun phrase with a noun clause:
+He considered his meagre bank balance and that he would have no income for the foreseeable future.
+
+### 2. Ideas Connected by Correlative Conjunctions
+
+The correlatives are "both...and," "either...or," "neither...nor," and "not only...but also." These pairs demand parallelism even more insistently than simple coordinating conjunctions do. In the following sentence, the writer ignored the demand by pairing a prepositional phrase with an adverb clause:
+Not only by shingling the barn roof but also when he painted the cabin, the hired man earned his keep around the farm.
+
+### 3. Ideas in a Series
+
+The nature of a list is to be composed of similar items, and in good writing the similarity extends to grammatical structure. When Caesar wrote, "I came; I saw; I conquered," he forcefully employed three parallel main clauses. The writer of the following sentence failed to apply the principle of parallelism to his list; his first two items are adverb clauses, but the third is a participial phrase:
+Because he looked mature, because he was a smooth talker, and having plenty of money to bribe the doormen, Jock could get into any club he liked.
+
+### 4. Ideas That Are Compared or Contrasted
+
+Both comparison and contrast imply that the two things being compared or contrasted have equal status, and parallel grammatical structure enhances this sense of balance. The following sentence creates a PAR error by posing an infinitive phrase against a noun phrase:
+Odysseus decided that to swim desperately for shore was better than a slow, miserable death on the raft.
+
+## CASE (CASE)
+
+When a pronoun is used as a subject or as a predicate noun, it is in the subject case; when it is used as the object of a verb or of a preposition, it is in the object case. Some pronouns, conveniently, use the same form for both cases. You, for example, remains the same regardless of whether it is subject or object: "You love Roger, and Roger loves you." The common pronouns which, it, this, and that are also invariable.
+
+Other pronouns have different forms for the two cases. In the following list, the subject form comes first, the object form second:
+
+I/me
+he/him
+she/her
+we/us
+they/them
+who/whom
+whoever/whomever
+
+The key to using correct pronoun case is to distinguish between subjects and objects. Ordinarily, this distinction presents few problems. We'd be no more likely to write "Roger loves I" or "Me loves Roger" than to write "I likes apple pie." Trouble appears only when the syntax of the sentence becomes more complex.
+
+Double objects are one frequent trouble spot. Though no one would write "Roger loves I," many people would make the mistake of writing "Roger loves Janice and I." Objects of prepositions, especially the preposition between, often illustrate the same error: "A thick coil of rope lay on the deck between Killick and he." The point is that an object remains an object no matter how many other objects it is coordinated with, and that it must be given the object form.
+
+Because they violate our normal expectations about syntax, adjective clauses are a second common trouble spot. In most clauses, subject-verb-object is the normal order. In an adjective clause, however, the relative pronoun that begins the clause may be either the subject or the object:
+The one who pays the piper calls the tune. [who = subject]
+The one whom the piper pays carries the pipe to the concert.
+[whom = object]
+In the second example, using the subject form who would be a CASE error.
+
+A point to notice is that the function of a pronoun in its own clause determines its case. The pronoun that introduces an adjective clause may refer to an object, but it must still have the subject form if it is the subject of its own clause:
+ 	I recognized the one who paid the piper.
+The same is true of pronouns that introduce noun clauses:
+
+Louise knows who is coming to dinner.
+[The entire noun clause is the object of knows, but the pronoun is the subject in the clause and must have the subject form.]
+
+Whomever the team chooses will become captain for next year.
+[The entire noun clause is the subject of the sentence, but the pronoun is the object in the clause and must have the object form.]
+
+Pronouns serving as appositives take their case from the noun that they rename:
+ 	Two girls, Elaine and she, tied for first place.
+      	[girls = subject; she = subject case]
+ 	Last place went to three boys--Ramon, Willie, and me.
+      	[boys = object of preposition to; me = object case]
+
+Before certain verbals, possessive case can also be an issue. A noun or pronoun before a participle is subject or object as the structure dictates:
+ 	Gerald, running full-tilt, won the race easily.
+      	[Gerald = subject, modified by the participle running]
+ 	I saw him running on the beach.
+      	[him = object, modified by the participle running]
+Before a gerund, however, possessive case is correct:
+ 	Gerald's running attracted the attention of the US Olympic Committee.
+      	[running = subject, modified by the possessive Gerald's]
+ 	They admired his running for its grace and power.
+      	[running = object, modified by possessive his]
+
+The last of these possible Case pitfalls is Elliptical constructions. These consist of the case of a pronoun ending a clause in which the verb is omitted.
+
+She is faster than I (am). 
+[This sentence is correct]
+
+I am slower than her.
+[This sentence is incorrect. The correct sentence would be “I am slower than she (is)”]
+
+## MISPLACED MODIFIERS (MM)
+
+Like faulty pronoun reference, modifier problems are not merely technical or cosmetic flaws: they affect the meaning of a sentence in a substantive way. When the relationship between a modifier and the word it modifies is not clear, the sentence will suggest a meaning that the writer does not intend; and this meaning may actually mislead the reader or simply be so ludicrous that it distracts him from the message and leads him to dwell on the writer's incompetence instead.
+
+In a simple sentence, modification is usually clear:
+ 	Smithers walks daintily.
+      	[adverb daintily modifies walks]
+ 	The hungry cops arrest a pizza.
+      	[adjective hungry modifies cops]
+As the length of the sentence and the number of structures it contains increase, relationships become more complex and opportunities for confusion multiply. Placing modifiers unambiguously becomes an art.
+
+In general, modifiers should be placed close to the word that they modify. Adverbial modifiers, though more free to move around a sentence than adjectives, must at least be closer to the word that they do modify than to any other word that they might modify. The following MM errors result when adverbial modifiers are carelessly tacked onto the ends of complex sentences:
+
+Marge plays the slot machines that Burns has installed in his casino obsessively.
+[obsessively modifies plays, not the nearer verb has installed]
+
+Lisa learns what she will look like in ten years when she watches a computer simulation in the orthodontist's office.
+[the adverb clause "when she watches a computer simulation in the orthodontist's office" modifies learns, not the nearer verb will look]
+
+An adverb sandwiched between two verbs that it might modify is called a two-way or "squinting" modifier:
+The hounds that were growling savagely attacked Bart when Burns gave the command.
+[Does savagely modify growling, or attacked?]
+
+The adverb only is misplaced more often than it is placed correctly. It tends to gravitate toward the main verb in a sentence even though it more logically belongs with a subordinate clause or with an expression of number or amount. The following sentences illustrate misplaced only:
+
+Homer only comes to pick up Bart from soccer practice after the boy has waited for hours in a torrential thunderstorm.
+
+The submarine sandwich, which is too big for the refrigerator, has only been lying around Homer's kitchen for three weeks.
+
+Adjective clauses follow a strict rule in their placement: they must immediately follow the noun that they modify. In the following sentence, the MM error suggests that the lawn, rather than the mob, is calling for Homer's blood:
+Looking out the bathroom window, Homer sees an angry mob on the lawn that is calling for his blood.
+
+## DANGLING MODIFIERS (DM)
+
+With the rare exception of absolute phrases, every structure in an English sentence must connect to something else in the sentence. A noun, for example, must perform one of several well-defined roles: it must be the object of a preposition; or it must be the subject or object of a verb; or it must be a predicate noun, equated to the subject by a linking verb; or it must be an appositive, renaming a prior noun. There can be no loose nouns that simply hang around a sentence without having a part to play.
+
+The same is true of modifiers: they must have something to modify. A modifier with nothing to modify is called a dangling modifier (DM), and the sentence that contains it is in deep trouble.
+
+In practice, the offending modifier is almost always at the beginning of the sentence and almost always contains a verbal. Three types of phrases make up the huge majority of danglers: participial phrases, infinitive phrases, and prepositional phrases in which a gerund is the object.
+
+All verbals have implied subjects: though they are not full-fledged verbs, someone or something is understood to be performing the action that they express. To test an introductory verbal for correctness, you must determine whether the implied subject of the verbal is the same as the subject of the main clause that follows. If so, the verbal is OK; if not, it is a dangler. The following sentences illustrate the difference:
+
+Watching the Itchy & Scratchy Show with Mr. Burns, Bart gets a sinister feeling from the old man's sadistic laughter.
+[Correct: Bart is the implied subject of the participle Watching and also the subject of the main clause.]
+
+Filleting the cat with a bread knife, an uneasy silence comes over the room.
+[DM: the implied subject of the participle Filleting is uncertain; however, it is definitely not an uneasy silence, the subject of the main clause. The participial phrase has nothing to modify.]
+
+Appalled by Ralph's attentions, Lisa can't think of a gentle way to rebuff them.
+[Correct: Lisa is the implied subject of the participle Appalled and also the subject of the main clause.]
+
+Greased head to toe by Doris, the ventilation ducts become the site of a thrilling chase scene in which Willie tries to catch the elusive dog.
+[DM: the implied subject of the participle Greased is Willie, but the subject of the main clause is ducts.]
+
+By hiring a cut-rate Mexican director and bribing the jury, Burns expects to win the Springfield Film Festival.
+[Correct: Burns is the implied subject of the gerund hiring and also the subject of the main clause.]
+
+By gluing a multi-colored wig to George Bush's head, the former president is thoroughly humiliated.
+[DM: the implied subject of the gerund gluing does not appear in the sentence.]
+
+To keep the class from seeing the slogan on Bart's t-shirt, Mrs. Krabopple throws herself in front of him.
+[Correct: Mrs. Krabopple is the implied subject of the infinitive To keep and also the subject of the main clause.]
+
+To gain the weight that will justify working at home, a special diet is prescribed by Dr. Nick.
+[DM: the implied subject of the infinitive To gain does not appear in the sentence.]
+
+If the implied subject of the verbal does appear somewhere in the sentence, the introductory phrase is not, technically, a dangler. For example, in the sentence above about the chase through the ventilation ducts, the participial phrase might more accurately be called an MM, because the writer can correct the sentence simply by moving the phrase:
+ 	The ventilation ducts become the site of a thrilling chase scene in which Willie, greased head to toe by Doris, tries to catch the elusive dog.
+If you encounter such a verbal on a test, you can legitimately label it either a DM or an MM.
+
+
