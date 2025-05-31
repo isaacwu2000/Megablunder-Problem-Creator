@@ -2,21 +2,25 @@
   {
     "problem": "While the extent of this improvement [that] (B) can be attributed to Trotsky is difficult to discern, especially when one considers that some improvement could be attributed to economic recovery from the Great War and the Russian Civil War as well as various other NEP [policies because] (C) Trotsky created the [unanimously approved] (D) four-stage plan, which guided economic policies during the NEP-era, and he advocated [heavily] (E) for the electrification of Russia prior to his lackluster time as a director of the ETO, a significant portion of the improvement in power generation can be credited to Trotsky.",
     "answer": "A",
+    "solution": "There are no errors in this sentence. Option (B), 'that', correctly introduces a restrictive adjective clause modifying 'improvement'. Option (C), 'policies because', appropriately uses 'because' to introduce a subordinate clause of reason, logically connecting to the preceding ideas about NEP policies. Option (D), 'unanimously approved', features the adverb 'unanimously' correctly modifying the participial adjective 'approved', which describes 'four-stage plan'. Option (E), 'heavily', is an adverb correctly modifying the verb 'advocated'. The sentence, though complex, maintains grammatical integrity without issues in sentence completeness, pronoun reference, agreement, case, or modifier placement.",
     "type": "A"
   },
   {
     "problem": "The array of volatile variables[, along with] (B) the coefficients derived from inconsistent models, [suggest] (C) the conclusion remains unsubstantiated [because] (D) neither the assumptions nor the results correspond consistently with empirical observations, [which] (E) trouble the most experienced statisticians.",
     "answer": "C",
+    "solution": "Option (C), 'suggest', is an AGREEMENT error. The true subject of the verb is 'The array'. The phrase 'along with the coefficients derived from inconsistent models' is an intervening prepositional phrase and does not affect the number of the subject. Since 'array' is a singular noun, it requires a singular verb. The singular form of the verb 'suggest' is 'suggests'. The rule for subject-verb agreement states that a singular subject takes a singular verb.",
     "type": "AGREE"
   },
   {
     "problem": "[Showcasing] (B) a rare Ming Dynasty manuscript—known for [its] (C) thin brushstrokes and mulberry-bark paper fibers—the curator presented the masterpiece to a group of tourists [who] (D) [had been kept] (E) in airtight chambers for preservation.",
     "answer": "E",
+    "solution": "Option (E), as part of the clause 'who (D) had been kept (E) in airtight chambers for preservation', contributes to a MISPLACED MODIFIER (MM) error. The adjective clause 'who had been kept in airtight chambers for preservation' is positioned so that it incorrectly modifies 'a group of tourists'. Logically, it is the 'rare Ming Dynasty manuscript' or 'the masterpiece' that would have been kept in airtight chambers for preservation, not the tourists. Adjective clauses must be placed immediately following the noun they modify to avoid such ludicrous or misleading interpretations.",
     "type": "MM"
   },
   {
     "problem": "A carbon tax would generate significant funds [amounting] (B) to [nearly] (C) 125 million dollars; with the money generated from a carbon tax, the government should invest in social services: 10% of [it] (D) should go to low-income households and the rest should go to the most pressing issues at the time of the carbon tax, [which] (E) are currently the government deficit and a potential default.",
     "answer": "D",
+    "solution": "Option (D), 'it', is a PRONOUN REFERENCE (PR) error. The pronoun 'it' is singular, but its antecedent is ambiguous. While 'the money generated from a carbon tax' is a singular concept mentioned nearby, the earlier prominent noun 'funds' is plural. A pronoun must refer clearly to a single, unambiguous noun. If 'it' is intended to refer to 'funds', there is a number mismatch. If it refers to 'the money', the connection could be clearer, as the presence of 'funds' might lead a reader to be unsure which noun the writer intended, thus violating the principle that one should be able to put a finger on the specific noun a pronoun refers to without ambiguity.",
     "type": "PR"
   }
 ]
