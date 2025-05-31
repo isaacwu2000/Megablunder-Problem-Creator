@@ -80,7 +80,7 @@ In the first example, this may refer to the banging, to Angus's forgetfulness, t
 
 ## AGREEMENT (AGREE)
 
-Agreement is the matching of certain grammatical features, primarily number. Singulars go with singulars and plurals with plurals. When two parts of a sentence that should agree do not, the sentence becomes incoherent; it seems like two different sentences that the writer has roughly jammed together.
+Agreement is the matching of certain grammatical features, primarily number. Singulars go with singulars and plurals with plurals. When two parts of a sentence that should agree do not, the sentence becomes incoherent; it seems like two different sentences that the writer has roughly jammed together. Note that correct tense usage is also a part of agreement.
 
 Two common grammatical relationships require agreement: the relationship of subject to verb and the relationship of noun to pronoun or possessive adjective.
 
@@ -244,11 +244,11 @@ Looking out the bathroom window, Homer sees an angry mob on the lawn that is cal
 
 ## DANGLING MODIFIERS (DM)
 
-With the rare exception of absolute phrases, every structure in an English sentence must connect to something else in the sentence. A noun, for example, must perform one of several well-defined roles: it must be the object of a preposition; or it must be the subject or object of a verb; or it must be a predicate noun, equated to the subject by a linking verb; or it must be an appositive, renaming a prior noun. There can be no loose nouns that simply hang around a sentence without having a part to play.
+With the exception of absolute phrases, every structure in an English sentence must connect to something else in the sentence. A noun, for example, must perform one of several well-defined roles: it must be the object of a preposition; or it must be the subject or object of a verb; or it must be a predicate noun, equated to the subject by a linking verb; or it must be an appositive, renaming a prior noun. There can be no loose nouns that simply hang around a sentence without having a part to play.
 
 The same is true of modifiers: they must have something to modify. A modifier with nothing to modify is called a dangling modifier (DM), and the sentence that contains it is in deep trouble.
 
-In practice, the offending modifier is almost always at the beginning of the sentence and almost always contains a verbal. Three types of phrases make up the huge majority of danglers: participial phrases, infinitive phrases, and prepositional phrases in which a gerund is the object.
+In practice, the offending modifier is almost always at the beginning of the sentence and almost always contains a verbal. Note that an absolute phrase can also be positioned at the start of a sentence, however. Three types of phrases make up the huge majority of danglers: participial phrases, infinitive phrases, and prepositional phrases in which a gerund is the object.
 
 All verbals have implied subjects: though they are not full-fledged verbs, someone or something is understood to be performing the action that they express. To test an introductory verbal for correctness, you must determine whether the implied subject of the verbal is the same as the subject of the main clause that follows. If so, the verbal is OK; if not, it is a dangler. The following sentences illustrate the difference:
 
@@ -279,5 +279,3 @@ To gain the weight that will justify working at home, a special diet is prescrib
 If the implied subject of the verbal does appear somewhere in the sentence, the introductory phrase is not, technically, a dangler. For example, in the sentence above about the chase through the ventilation ducts, the participial phrase might more accurately be called an MM, because the writer can correct the sentence simply by moving the phrase:
  	The ventilation ducts become the site of a thrilling chase scene in which Willie, greased head to toe by Doris, tries to catch the elusive dog.
 If you encounter such a verbal on a test, you can legitimately label it either a DM or an MM.
-
-
