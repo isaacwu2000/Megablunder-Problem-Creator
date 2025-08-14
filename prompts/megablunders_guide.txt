@@ -78,7 +78,7 @@ The book explains how working class people in Kansas have been conned into votin
 
 In the first example, this may refer to the banging, to Angus's forgetfulness, to the scratches, or to all three. In the second example, which refers to the entire how clause, not to any particular noun in it.
 
-## AGREEMENT (AGREE)
+## AGREEMENT (AGR)
 
 Agreement is the matching of certain grammatical features, primarily number. Singulars go with singulars and plurals with plurals. When two parts of a sentence that should agree do not, the sentence becomes incoherent; it seems like two different sentences that the writer has roughly jammed together. Note that correct tense usage is also a part of agreement.
 
@@ -88,7 +88,7 @@ Two common grammatical relationships require agreement: the relationship of subj
 
 The rule is simple and straightforward--singular subject, singular verb; plural subject, plural verb--and writers usually follow it automatically, without having to think about it. No one would write "The milkmaid milk the cow" or "The foxes steals the chickens."
 
-As long as the subject and verb are next to each other, agreement tends to happen naturally. In complex writing, however, subject and verb are often separated from one another--for example, by a prepositional phrase or adjective clause that modifies the subject. In this situation, the number of a noun in the intervening structure may distract the writer from the subject-verb relationship and cause an AGREE error:
+As long as the subject and verb are next to each other, agreement tends to happen naturally. In complex writing, however, subject and verb are often separated from one another--for example, by a prepositional phrase or adjective clause that modifies the subject. In this situation, the number of a noun in the intervening structure may distract the writer from the subject-verb relationship and cause an AGR error:
 
 A peculiarity of all seagoing mammals have frustrated researchers for years.
 
