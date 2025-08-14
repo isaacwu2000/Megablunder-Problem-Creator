@@ -1,0 +1,14 @@
+[
+    {
+        "problem": "The ancient artifact, [discovered] (B) by a team of archeologists in a remote desert region, was [unlike] (C) anything the museum curators had ever encountered, [which] (D) sparked considerable excitement and speculation among them, [as well as] (E) prompting intensive study into its origins and purpose, [even though] (A) it was exceptionally fragile.",
+        "answer": "A",
+        "solution": "There are no errors in this sentence. Option (B) 'discovered' correctly functions as a past participle modifying 'artifact'. Option (C) 'unlike' is a preposition correctly introducing a prepositional phrase. Option (D) 'which' correctly introduces a non-restrictive adjective clause referring to 'anything the museum curators had ever encountered'. Option (E) 'as well as' is a conjunctive phrase appropriately used to connect two verb phrases. The sentence is grammatically sound.",
+        "category": "A"
+    },
+    {
+        "problem": "The sheer volume of interconnected components, [which] (B) are all subject to wear and tear, necessitates a meticulous maintenance schedule, [whereas] (C) neglecting any single element could lead to [catastrophic] (D) system failure, [affecting] (E) the entire network's stability.",
+        "answer": "A",
+        "solution": "This sentence contains no grammatical errors. Option (B) 'which' correctly introduces a non-restrictive adjective clause modifying 'components'. Option (C) 'whereas' appropriately functions as a conjunctive adverb to show contrast between the two main clauses. Option (D) 'catastrophic' is an adjective correctly modifying the noun 'failure'. Option (E) 'affecting' is a present participle correctly used to introduce a participial phrase that modifies the entire preceding clause, explaining the consequence of system failure.",
+        "category": "A"
+    }
+]

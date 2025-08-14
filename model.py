@@ -1,54 +1,61 @@
+import json
 from dotenv import load_dotenv
 from google import genai
 from google.genai import types
 from pydantic import BaseModel
 
-class Model:
-    @staticmethod
-    def get_client():
-        load_dotenv()
-        return genai.Client()
+def get_client():
+    load_dotenv()
+    return genai.Client()
 
-    @staticmethod
-    def generate_problem(system="You are a grammar expert", task="Create a Megablunder problem"):
-        class Problem(BaseModel):
-            problem: str
-            answer: str
-            solution: str
-            category: str
+def read_file(file_path):
+    with open(file_path, 'r') as f:
+        return f.read()
 
-        client = Model.get_client()
-        response = client.models.generate_content(
-            model="gemini-2.5-flash",
-            config=types.GenerateContentConfig(
-                system_instruction=system,
-                response_mime_type="application/json",
-                response_schema=Problem,
-            ),
-            contents=task,
-        )
-        print(response.text)
+def write_problem_to_json(problem, json_path):
+    try:
+        with open(json_path, 'r') as f:
+            problems = json.load(f)
+            problems.append(problem)
+        with open(json_path, 'w') as f:
+            json.dump(problems, f, indent=4)
+    except json.decoder.JSONDecodeError:
+        with open(json_path, 'w') as f:
+            json.dump(problem, f, indent=4) 
+        
 
-    
 
-    @staticmethod
-    def generate_hard_length():
-        pass
+def generate_problem(prompt_path, category="CASE"):
+    class Problem(BaseModel):
+        problem: str
+        answer: str
+        solution: str
+        category: str
 
-    @staticmethod
-    def generate_hard_trick():
-        pass
+    client = get_client()
+    response = client.models.generate_content(
+        model="gemini-2.5-flash-lite",
+        config=types.GenerateContentConfig(
+            system_instruction=read_file(prompt_path),
+            response_mime_type="application/json",
+            response_schema=Problem,
+        ),
+        contents=f"Create a Megablunder problem for the {category} category",
+    )
 
-    @staticmethod
-    def generate_medium():
-        pass
+    return response.parsed.model_dump()
 
-    @staticmethod
-    def website_problem_to_mcq():
-        pass
+def generate_hard_length(category):
+    problem = generate_problem("prompts/hard_length.txt", category=category)
+    write_problem_to_json(problem, "problems/hard_length_generated.json")
 
-    @staticmethod
-    def check_problem():
-        pass
+def generate_hard_trick():
+    pass
 
-Model.generate_problem()
+def generate_medium():
+    pass
+
+def check_problem():
+    pass
+
+generate_hard_length("A")
