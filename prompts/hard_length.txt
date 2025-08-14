@@ -296,7 +296,7 @@ If you encounter such a verbal on a test, you can legitimately label it either a
   "problem": "While the extent of this improvement [that] (B) can be attributed to Trotsky is difficult to discern, especially when one considers that some improvement could be attributed to economic recovery from the Great War and the Russian Civil War as well as various other NEP [policies because] (C) Trotsky created the [unanimously approved] (D) four-stage plan, which guided economic policies during the NEP-era, and he advocated [heavily] (E) for the electrification of Russia prior to his lackluster time as a director of the ETO, a significant portion of the improvement in power generation can be credited to Trotsky.",
   "answer": "A",
   "solution": "There are no errors in this sentence. Option (B), 'that', correctly introduces a adjective clause modifying 'improvement'. Option (C), 'policies because', appropriately uses 'because' to introduce a subordinate clause of reason, logically connecting to the preceding ideas about NEP policies. Option (D), 'unanimously approved', features the adverb 'unanimously' correctly modifying the adjective 'approved', which describes 'four-stage plan'. Option (E), 'heavily', is an adverb correctly modifying the verb 'advocated'. The sentence, though complex, is grammatically correct.",
-  "type": "A"
+  "category": "A"
   }
 </example>
 <example>
@@ -304,7 +304,7 @@ If you encounter such a verbal on a test, you can legitimately label it either a
     "problem": "The array of volatile variables[, along with] (B) the coefficients derived from inconsistent models, [suggest] (C) the conclusion remains unsubstantiated [because] (D) neither the assumptions nor the results correspond consistently with empirical observations, [which] (E) trouble the most experienced statisticians.",
     "answer": "C",
     "solution": "Option (C) has a subject-verb agreement (AGR) error. The singular subject 'array' requires the singular verb 'suggests,' not 'suggest.' The prepositional phrase 'along with the coefficients...' does not affect the verb form.",
-    "type": "AGR"
+    "category": "AGR"
   }
 </example>
 <example>
@@ -312,7 +312,7 @@ If you encounter such a verbal on a test, you can legitimately label it either a
     "problem": "[Showcasing] (B) a rare Ming Dynasty manuscript—known for [its] (C) thin brushstrokes and mulberry-bark paper fibers—the curator presented the masterpiece to a group of tourists [who] (D) [had been kept] (E) in airtight chambers for preservation.",
     "answer": "E",
     "solution": "Option (E), as part of the clause 'who (D) had been kept (E) in airtight chambers for preservation', contributes to a misplaced modifier (MM) error. The adjective clause 'who had been kept in airtight chambers for preservation' is positioned so that it incorrectly modifies 'a group of tourists'. Logically, it is the 'rare Ming Dynasty manuscript' or 'the masterpiece' that would have been kept in airtight chambers for preservation, not the tourists. Adjective clauses must be placed immediately following the noun they modify to avoid such ludicrous or misleading interpretations.",
-    "type": "MM"
+    "category": "MM"
   }
 </example>
 <example>
@@ -320,6 +320,6 @@ If you encounter such a verbal on a test, you can legitimately label it either a
     "problem": "A carbon tax would generate significant funds [amounting] (B) to [nearly] (C) 125 million dollars; with the money generated from a carbon tax, the government should invest in social services: 10% of [it] (D) should go to low-income households and the rest should go to the most pressing issues at the time of the carbon tax, [which] (E) are currently the government deficit and a potential default.",
     "answer": "D",
     "solution": "Option (D), 'it', contains a pronoun reference (PR) error. The pronoun 'it' is singular, but its antecedent is ambiguous. While 'social services' is the closest noun, 'it' clearly refers 'the money'. A pronoun must be unambiguous, so Option (D) contains a Megablunder.",
-    "type": "PR"
+    "category": "PR"
   }
 </example>
