@@ -1,4 +1,5 @@
 import json
+import time
 from dotenv import load_dotenv
 from google import genai
 from google.genai import types
@@ -22,28 +23,29 @@ def write_problem_to_json(problem, json_path):
     except json.decoder.JSONDecodeError:
         with open(json_path, 'w') as f:
             json.dump(problem, f, indent=4) 
-        
 
-
-def generate_problem(prompt_path, category="CASE"):
+def generate_problem(prompt_path, model="gemini-2.5-pro", category="A"):
     class Problem(BaseModel):
         problem: str
         answer: str
         solution: str
         category: str
-
-    client = get_client()
-    response = client.models.generate_content(
-        model="gemini-2.5-flash-lite",
-        config=types.GenerateContentConfig(
-            system_instruction=read_file(prompt_path),
-            response_mime_type="application/json",
-            response_schema=Problem,
-        ),
-        contents=f"Create a Megablunder problem for the {category} category",
-    )
-
-    return response.parsed.model_dump()
+    while True:
+        try:
+            client = get_client()
+            response = client.models.generate_content(
+                model=model,
+                config=types.GenerateContentConfig(
+                    system_instruction=read_file(prompt_path),
+                    response_mime_type="application/json",
+                    response_schema=Problem,
+                ),
+                contents=f"Create a Megablunder problem of type {category} with only a {category} error in the correct answer choice.",
+            )
+            return response.parsed.model_dump()
+        except Exception as e:
+            print(e)
+            time.sleep(10)
 
 def generate_hard_length(category):
     problem = generate_problem("prompts/hard_length.txt", category=category)
@@ -58,4 +60,3 @@ def generate_medium():
 def check_problem():
     pass
 
-generate_hard_length("A")

@@ -13,7 +13,7 @@
   },
   {
     "problem": "If I [was] (B) in Ms. Tan's class and [in] (C) your situation, I would ask the academic dean[, who is very harsh,] (D) and [Ms. Tan] (E) for an extension on the history paper.",
-    "solution": "Option (B), 'was', is an AGREEMENT error. The sentence begins with 'If' and describes a hypothetical or contrary-to-fact situation ('If I was... I would ask...'), which requires the subjunctive mood for the verb in the 'if' clause. For the verb 'to be' in the past subjunctive, the correct form for all persons, including 'I', is 'were'. Therefore, the sentence should read 'If I were in Ms. Tan's class...'. Using 'was' instead of 'were' in this conditional context violates the requirement for the correct verb form to agree with the subjunctive mood, a principle related to ensuring verbs match their grammatical context, akin to how correct tense usage is part of agreement.",
+    "solution": "Option (B), 'was', is an AGREE error. The sentence begins with 'If' and describes a hypothetical or contrary-to-fact situation ('If I was... I would ask...'), which requires the subjunctive mood for the verb in the 'if' clause. For the verb 'to be' in the past subjunctive, the correct form for all persons, including 'I', is 'were'. Therefore, the sentence should read 'If I were in Ms. Tan's class...'. Using 'was' instead of 'were' in this conditional context violates the requirement for the correct verb form to agree with the subjunctive mood, a principle related to ensuring verbs match their grammatical context, akin to how correct tense usage is part of agreement.",
     "answer": "B",
     "type": "AGREE"
   },
@@ -22,5 +22,11 @@
     "solution": "The sentence contains no grammatical errors. Option (B), '[The pot boiling from the flames,]', is a correctly formed absolute phrase. Such phrases, consisting of a noun ('The pot') followed by a participle ('boiling'), modify the entire main clause ('the special potion was made by the evil witch') by providing attendant circumstances, and they are an exception to the rule that introductory verbal phrases must modify the subject of the main clause, thus it is not a dangling modifier. The preposition '[despite]' (C) correctly introduces a phrase indicating contrast. The possessive noun '[pot’s]' (D) is appropriately used before the gerund 'bursting', as the rules for case dictate that a noun or pronoun before a gerund should be in the possessive form. Finally, '[near]' (E) functions correctly as an adjective modifying 'bursting', indicating the imminence of the action.",
     "answer": "A",
     "type": "A"
+  },
+  {
+    "problem": "Timmy had a poor score on the Megablunders exam [because] (B) he made a couple of silly mistakes[, but, to be fair,] (C) I would probably have gotten the same score as [his] (D) if I [had been] (E) in the same noisy environment.",
+    "solution": "Option (D) contains a CASE error from the improper use of an elliptical construction. The pronoun must match its predecessor's type (subject or object): “…the same score as he [had],” not “…the same score as his.",
+    "answer": "D",
+    "type": "CASE"
   }
 ]
