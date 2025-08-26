@@ -24,7 +24,7 @@ def write_problem_to_json(problem, json_path):
         with open(json_path, 'w') as f:
             json.dump(problem, f, indent=4) 
 
-def generate_problem(prompt_path, model="gemini-2.5-pro", category="A"):
+def generate_problem(prompt_path, model="gemini-2.5-flash", category="A"):
     class Problem(BaseModel):
         problem: str
         answer: str
@@ -51,12 +51,11 @@ def generate_hard_length(category):
     problem = generate_problem("prompts/hard_length.txt", category=category)
     write_problem_to_json(problem, "problems/hard_length_generated.json")
 
-def generate_hard_trick():
-    pass
+def generate_hard_trick(category):
+    problem = generate_problem("prompts/hard_trick.txt", category=category)
+    write_problem_to_json(problem, "problems/hard_trick_generated.json")
 
-def generate_medium():
-    pass
-
-def check_problem():
-    pass
+def generate_medium(category):
+    problem = generate_problem("prompts/medium.txt", category=category)
+    write_problem_to_json(problem, "problems/medium_generated.json")
 
