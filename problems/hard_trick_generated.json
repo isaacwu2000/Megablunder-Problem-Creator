@@ -1156,5 +1156,47 @@
         "answer": "B",
         "solution": "Option (B) contains a Dangling Modifier (DM). The introductory participial phrase 'Having meticulously researched ancient cartography and deciphered obscure navigational texts' implies 'the intrepid explorer' as its subject, as the explorer is the one performing the research and deciphering. However, the grammatical subject of the main clause that follows is 'the lost continent of Atlantis'. Since the continent did not perform the actions of researching and deciphering, the introductory phrase dangles, lacking a proper subject to modify.",
         "category": "DM"
+    },
+    {
+        "problem": "Filleting the cat with a bread knife, [an uneasy silence] (B) came over the room as the children watched in horrified fascination, [realizing too late] (C) that their favorite pet [was being prepared] (D) for dinner, a culinary tradition [they had always found] (E) barbaric.",
+        "answer": "B",
+        "solution": "Option (B) contains a dangling modifier (DM) error. The introductory participial phrase, 'Filleting the cat with a bread knife,' implies a subject (the one performing the action of filleting). However, the grammatical subject of the main clause, 'an uneasy silence,' cannot logically perform this action. This creates a dangling modifier because the participial phrase does not correctly modify the subject of the main clause. The implied subject of 'Filleting' does not appear in the sentence. To correct this, the sentence would need to be rephrased to include the actual agent of the filleting as the subject of the main clause (e.g., 'Filleting the cat with a bread knife, the chef brought an uneasy silence over the room...').",
+        "category": "DM"
+    },
+    {
+        "problem": "Having meticulously researched countless historical documents and primary sources, [the author's magnum opus] (B) was eventually published, [a work] (C) that brilliantly [illuminated] (D) the untold stories of a forgotten era, [thereby securing] (E) its place in literary history.",
+        "answer": "B",
+        "solution": "Option (B) contains a DANGLING MODIFIER error. The introductory participial phrase 'Having meticulously researched countless historical documents and primary sources' implies that the subject of the main clause performed the action of researching. However, the subject of the main clause is 'the author's magnum opus,' which is an inanimate object and cannot perform research. The implied subject of the participial phrase (the author) is not the grammatical subject of the main clause, causing the modifier to dangle.",
+        "category": "DM"
+    },
+    {
+        "problem": "With the intent of preventing any ambiguity, [meticulous phrasing is essential] (B) for all legal professionals, which ensures that every clause within a contract [is interpreted] (C) precisely and unequivocally, thereby allowing neither party [to misrepresent] (D) its stipulations nor [to inadvertently violate] (E) its terms.",
+        "answer": "B",
+        "solution": "Option (B) contains a DANGLING MODIFIER (DM) error. The introductory participial phrase 'With the intent of preventing any ambiguity' implies a sentient agent (e.g., 'legal professionals') that holds this intent. However, the subject of the main clause is 'meticulous phrasing', which cannot possess intent. For the sentence to be grammatically correct, the subject of the main clause must be the agent implied by the introductory phrase (e.g., 'legal professionals find meticulous phrasing essential' or 'legal professionals ensure meticulous phrasing'). Therefore, the introductory phrase dangles, lacking a proper subject to modify. Options (C), (D), and (E) are grammatically correct; (C) correctly uses the singular passive verb 'is interpreted' to agree with the singular subject 'every clause'; and (D) and (E) correctly maintain parallelism between the infinitive phrases 'to misrepresent' and 'to inadvertently violate'.",
+        "category": "DM"
+    },
+    {
+        "problem": "After years of arduous research, [Having meticulously] (B) analyzed the intricate socio-economic data, a compelling narrative about systemic inequality began to emerge from the researchers' collective efforts, [which, because] (C) of its profound implications, subtly influenced public opinion, [thereby causing] (D) a paradigm shift in policy debates, [a development that] (E) few had anticipated.",
+        "answer": "B",
+        "solution": "Option (B), '[Having meticulously]', begins an introductory participial phrase that creates a DANGLING MODIFIER (DM) error. The implied subject of the participial phrase 'Having meticulously analyzed the intricate socio-economic data' is the researchers. However, the grammatical subject of the main clause that follows is 'a compelling narrative', which cannot logically perform the action of analyzing data. For the sentence to be grammatically correct, the subject of the main clause should match the implied subject of the introductory phrase, for example, 'the researchers began to develop a compelling narrative...'.",
+        "category": "DM"
+    },
+    {
+        "problem": "Eagerly anticipating the launch of their groundbreaking, experimental fusion reactor, [the scientific community's expectations] (B) for clean, boundless energy [had reached] (C) an unprecedented fervor, [making] (D) the smallest delay [feel] (E) like an eternity.",
+        "answer": "B",
+        "solution": "Option (B) contains a DANGLING MODIFIER. The introductory participial phrase 'Eagerly anticipating the launch...' implies that the scientific community is the one doing the anticipating. However, the grammatical subject of the main clause is 'the scientific community's expectations,' and expectations cannot 'eagerly anticipate.' The sentence should be restructured so that the logical actor (the scientific community) is the subject of the main clause.",
+        "category": "DM"
+    },
+    {
+        "problem": "Having painstakingly reviewed all the available evidence and deliberated for hours, [the jury's decision] (B) was finally announced, [a verdict met with] (C) a mixture of relief and apprehension by the anxious public, [many of whom] (D) had waited outside the courthouse, often [for days] (E), oblivious to the inclement weather.",
+        "answer": "B",
+        "solution": "Option (B) contains a DANGLING MODIFIER (DM). The introductory participial phrase \"Having painstakingly reviewed all the available evidence and deliberated for hours\" implies that the one performing these actions is a sentient entity, such as 'the jury' or 'the jurors'. However, the subject of the main clause that follows is \"the jury's decision.\" A decision cannot review evidence or deliberate, meaning the implied subject of the introductory phrase does not match the grammatical subject of the main clause, thus creating a dangling modifier.",
+        "category": "DM"
+    },
+    {
+        "problem": "Having been meticulously reviewed by the entire editorial team over several months, [the book's publication] (B) was celebrated as a significant achievement, a triumph that solidified [its] (C) author's reputation and garnered widespread critical acclaim, [many critics initially questioning its premise] (D) before ultimately praising its execution.",
+        "answer": "B",
+        "solution": "Option (B), '[the book's publication]', results in a Dangling Modifier (DM) error. The introductory participial phrase 'Having been meticulously reviewed by the entire editorial team over several months' logically implies that 'the book' (or its manuscript) was the entity undergoing review. However, the grammatical subject of the main clause that follows is 'the book's publication'. The publication itself was not reviewed; rather, the book was reviewed, leading to its publication. Since the implied subject of the participial phrase ('the book') does not match the grammatical subject of the main clause ('the book's publication'), the introductory phrase 'dangles', creating an unclear and grammatically incorrect sentence. In contrast, '[its]' (C) is a possessive pronoun correctly referring to 'the book's', and '[many critics initially questioning its premise]' (D) is a grammatically sound absolute phrase, which, unlike a dangling modifier, has its own subject ('critics') and modifies the entire main clause without needing to share the main clause's subject.",
+        "category": "DM"
     }
 ]
