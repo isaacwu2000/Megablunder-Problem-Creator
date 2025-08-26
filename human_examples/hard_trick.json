@@ -3,30 +3,30 @@
     "problem": "[There] (B) is a common belief [that] (C) pirates killed [whoever] (D) they saw, but [this] (E) belief is false.",
     "solution": "The pronoun 'whoever' functions as the direct object of the verb 'saw' within the clause 'whoever they saw' (they saw whom?). According to the guide, pronouns used as objects must be in the object case. The object case for 'whoever' is 'whomever'.",
     "answer": "D",
-    "type": "CASE"
+    "category": "CASE"
   },
   {
     "problem": "Once the memoir was released, [with] (B) [its] (C) fragmented prose and deliberately inconsistent chronology, [it became clear] (D) that the audience would not respond uniformly, a response [which] (E) frustrated reviewers who struggled to determine the memoir’s purpose.",
     "solution": "The sentence contains no grammatical errors. The preposition '[with]' (B) correctly introduces a modifying phrase without creating an incomplete sentence or an improperly joined one. The possessive pronoun '[its]' (C) clearly refers to the singular noun 'memoir,' demonstrating correct pronoun reference and agreement in number with its antecedent. The phrase '[it became clear]' (D) properly uses 'it' as a placeholder subject for the subsequent noun clause, and the singular verb 'became' agrees with this placeholder. Finally, the relative pronoun '[which]' (E) appropriately introduces an adjective clause modifying the specific noun 'response' that immediately precedes it, thus avoiding the issue of a pronoun referring vaguely to an entire preceding idea. This adjective clause is correctly placed, and 'which' functions as the subject within its own clause, satisfying case requirements.",
     "answer": "A",
-    "type": "A"
+    "category": "A"
   },
   {
     "problem": "If I [was] (B) in Ms. Tan's class and [in] (C) your situation, I would ask the academic dean[, who is very harsh,] (D) and [Ms. Tan] (E) for an extension on the history paper.",
     "solution": "Option (B), 'was', is an AGREE error. The sentence begins with 'If' and describes a hypothetical or contrary-to-fact situation ('If I was... I would ask...'), which requires the subjunctive mood for the verb in the 'if' clause. For the verb 'to be' in the past subjunctive, the correct form for all persons, including 'I', is 'were'. Therefore, the sentence should read 'If I were in Ms. Tan's class...'. Using 'was' instead of 'were' in this conditional context violates the requirement for the correct verb form to agree with the subjunctive mood, a principle related to ensuring verbs match their grammatical context, akin to how correct tense usage is part of agreement.",
     "answer": "B",
-    "type": "AGREE"
+    "category": "AGREE"
   },
   {
     "problem": "[The pot boiling from the flames,] (B) the special potion was made by the evil witch [despite] (C) the [pot’s] (D) [near] (E) bursting.",
     "solution": "The sentence contains no grammatical errors. Option (B), '[The pot boiling from the flames,]', is a correctly formed absolute phrase. Such phrases, consisting of a noun ('The pot') followed by a participle ('boiling'), modify the entire main clause ('the special potion was made by the evil witch') by providing attendant circumstances, and they are an exception to the rule that introductory verbal phrases must modify the subject of the main clause, thus it is not a dangling modifier. The preposition '[despite]' (C) correctly introduces a phrase indicating contrast. The possessive noun '[pot’s]' (D) is appropriately used before the gerund 'bursting', as the rules for case dictate that a noun or pronoun before a gerund should be in the possessive form. Finally, '[near]' (E) functions correctly as an adjective modifying 'bursting', indicating the imminence of the action.",
     "answer": "A",
-    "type": "A"
+    "category": "A"
   },
   {
     "problem": "Timmy had a poor score on the Megablunders exam [because] (B) he made a couple of silly mistakes[, but, to be fair,] (C) I would probably have gotten the same score as [his] (D) if I [had been] (E) in the same noisy environment.",
     "solution": "Option (D) contains a CASE error from the improper use of an elliptical construction. The pronoun must match its predecessor's type (subject or object): “…the same score as he [had],” not “…the same score as his.",
     "answer": "D",
-    "type": "CASE"
+    "category": "CASE"
   }
 ]

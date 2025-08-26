@@ -2,19 +2,19 @@
   {
     "problem": "Neither the mountain of unread submissions nor [the myriad] (B) footnotes buried in the appendix [have been reviewed] (C) by the editorial team [despite] (D) multiple reminders circulated through internal memos and follow-up emails, [each increasingly] (E) terse and exasperated.",
     "answer": "C",
-    "type": "AGREE",
+    "category": "AGREE",
     "solution": "Option (C), 'have been reviewed', is an AGREEMENT error. When subjects are connected by 'nor', the verb agrees with the nearer subject. In this case, the nearer subject to the verb 'have been reviewed' is 'footnotes', which is plural. Therefore, the plural verb 'have been reviewed' is correct. My apologies, I have made an error in my analysis. The original sentence is actually correct. The problem states the answer is C, but based on the guide, it is not. Let me re-evaluate."
   },
   {
     "problem": "The violinist performed the final movement[, wearing a sequined jacket once owned by a Hungarian virtuoso,] (B) to a jury of professors [who had] (C) studied under Bartók [and] (D) [whose] (E) applause was hesitant.",
     "answer": "B",
-    "type": "MM",
+    "category": "MM",
     "solution": "Option (B), 'wearing a sequined jacket once owned by a Hungarian virtuoso,', is a MISPLACED MODIFIER (MM) error. This participial phrase is positioned to modify 'the final movement', suggesting that the movement itself was wearing the jacket. Logically, it is 'The violinist' who was wearing the jacket. Modifiers should be placed close to the word they modify to avoid such illogical or confusing interpretations."
   },
   {
     "problem": "I know [that] (B) you [knew] (C) that I'm [as wise as] (D) [him] (E).",
     "answer": "E",
-    "type": "CASE",
+    "category": "CASE",
     "solution": "Option (E), 'him', is a CASE error. This sentence contains an elliptical construction, where part of the clause is omitted but understood. The full comparison is 'I'm as wise as him (is)'. In such comparisons, the pronoun should be in the subject case because it is the subject of the implied verb 'is'. Therefore, 'him' (object case) should be 'he' (subject case). The correct sentence would be 'I'm as wise as he'."
   }
 ]

@@ -562,5 +562,599 @@
         "answer": "D",
         "solution": "Option (D) contains a PR (Pronoun Reference) error. The relative pronoun '[which]' lacks a clear and specific noun antecedent. Instead, it refers generally to the entire preceding situation or idea\u2014the ambiguity surrounding the funding and the resulting uncertainty among investors\u2014rather than to a single, identifiable noun. This constitutes a general pronoun reference error, as 'which' is used to refer to an idea spread out over a clause.",
         "category": "PR"
+    },
+    {
+        "problem": "The sudden power outage, occurring just as the critical data transfer was nearing completion, corrupted several vital files and halted the entire operation, [a disaster] (B) that could have been avoided with proper backup protocols, and [which] (C) left the IT department scrambling for solutions. [This] (D) caused considerable friction between the technical staff and upper management, [though] (E) ultimately no one was fired.",
+        "answer": "D",
+        "solution": "Option (D), '[This]', contains a PR (Pronoun Reference) error because 'This' is used in a general reference. The pronoun refers not to a specific noun, but rather to the entire preceding situation involving the power outage, the corruption of files, the halting of the operation, and the IT department's subsequent scrambling. The Megablunders Guide specifies that a pronoun must refer clearly to a single noun, and 'this' referring to an idea spread out over an entire clause or more constitutes a general reference error. Options (B) and (C) correctly form an appositive phrase 'a disaster' followed by parallel relative clauses ('that could have been avoided...' and 'which left...'), both modifying 'disaster'. Option (E) correctly uses 'though' as a subordinating conjunction introducing a concession.",
+        "category": "PR"
+    },
+    {
+        "problem": "The town council's decision to rezone the waterfront property, despite vocal opposition from local residents and environmental groups, was swiftly enacted; [this] (B) would inevitably displace several small businesses and threaten sensitive wetland habitats, [a consequence] (C) that the mayor publicly lamented [as both] (D) regrettable and [avoidable only] (E) with significant financial burden.",
+        "answer": "B",
+        "solution": "Option (B), '[this]', is a PR (Pronoun Reference) error because it is a case of general reference. The demonstrative pronoun 'this' refers to the entire preceding clause ('the town council's decision... was swiftly enacted') rather than to a specific noun. For clarity and grammatical correctness, a specific noun referring to the action or idea should be used (e.g., 'this enactment', 'this decision'). Options (C), (D), and (E) are grammatically correct. Option (C), '[a consequence]', is a noun phrase used as an appositive that clarifies the preceding action or outcome, which is a grammatically acceptable and sophisticated construction, not a pronoun reference error. Option (D), '[as both]', correctly uses the correlative conjunction 'both...and' to connect two parallel adjectives ('regrettable' and 'avoidable'). Option (E), '[avoidable only]', correctly places the adverb 'only' to modify the phrase 'with significant financial burden', ensuring its intended meaning.",
+        "category": "PR"
+    },
+    {
+        "problem": "The board's decision to divest from fossil fuels, [a move] (B) [which] (C) was met with both fervent support and vehement opposition from shareholders, ultimately signaled a significant shift in corporate policy; [it] (D) sparked intense debate among industry analysts, [who questioned] (E) its long-term economic viability.",
+        "answer": "D",
+        "solution": "Option (D) contains a Pronoun Reference (PR) error. The pronoun '[it]' ambiguously refers to multiple possible antecedents. In the context, 'it' could logically refer to 'the board's decision', 'a move', or 'a significant shift in corporate policy'. Since the reader cannot determine with certainty which specific noun 'it' refers to as the subject that 'sparked intense debate', the reference is unclear.",
+        "category": "PR"
+    },
+    {
+        "problem": "The newly appointed curator, [known] (B) for her unconventional curatorial approach and her relentless pursuit of underrepresented artists, inadvertently alienated several key donors with her initial exhibition choices, a development [that] (C) immediately complicated fundraising efforts; however, [this] (D) did not deter her from her artistic vision, [despite] (E) the ensuing financial difficulties.",
+        "answer": "D",
+        "solution": "Option (D), '[this]', contains a PR (Pronoun Reference) error because it is a general reference. The pronoun 'this' refers to the entire preceding clause and the idea it conveys (the curator alienating donors and complicating fundraising efforts), rather than a specific, identifiable noun. In formal writing, pronouns like 'this' should have a clear, single noun antecedent. To correct this, one might insert a noun, such as 'this setback' or 'this challenge', to provide a concrete antecedent for the pronoun.",
+        "category": "PR"
+    },
+    {
+        "problem": "Despite the CEO's impassioned plea for unity, the board of directors, [known for its conservative stance,] (C) deliberated for hours on whether to approve the controversial new initiative, ultimately [deciding to table it indefinitely;] (D) [this] (B) left many key stakeholders and investors [in a state of profound uncertainty] (E) regarding the company's long-term strategy.",
+        "answer": "B",
+        "solution": "Option (B) contains a PR (Pronoun Reference) error. The demonstrative pronoun '[this]' (B) refers generally to the entire preceding idea\u2014the board's deliberation and its decision to table the initiative indefinitely\u2014rather than to a specific noun antecedent. Such a general reference is a common pronoun error. All other options are grammatically correct: (C) is a properly formed participial phrase with correct pronoun-antecedent agreement for 'its' with 'board'; (D) is a correct participial phrase where 'it' clearly refers to 'the controversial new initiative', and the semicolon appropriately separates two independent clauses; and (E) is a correctly constructed prepositional phrase.",
+        "category": "PR"
+    },
+    {
+        "problem": "When the revered archaeologist, Dr. Aris, introduced his prot\u00e9g\u00e9, Lena, to the senior expedition leader, Professor Vance, in the dusty tent, [he] (B) made it clear that [he] (C) expected [him] (D) to present the findings, and that [his] (E) analysis would be critical to securing further funding.",
+        "answer": "E",
+        "solution": "The pronoun '[his]' (E) creates an ambiguous pronoun reference error. It is unclear whether 'his' refers to Dr. Aris (the archaeologist who made the expectations clear) or Professor Vance (the expedition leader who is expected to present the findings). Both are singular, masculine nouns and plausible antecedents, making the sentence's meaning uncertain.",
+        "category": "PR"
+    },
+    {
+        "problem": "A considerable portion of the research team, whose expertise [spans] (B) several scientific disciplines, [has been working] (C) on this project for nearly a decade, despite [their initial reluctance] (D) to collaborate, which eventually led to a breakthrough in [quantum computing] (E).",
+        "answer": "D",
+        "solution": "The subject of the main clause is \"portion\" (singular), which correctly takes the singular verb \"has been working\" (C). However, the pronoun '[their]' (D) refers back to this singular subject \"portion\" (or the collective noun \"research team\" when treated as a single unit, as indicated by the singular verb). According to the rules of pronoun-antecedent agreement, a singular antecedent requires a singular pronoun. Therefore, \"their\" should be \"its\" to agree with \"portion,\" making (D) an AGREEMENT error. The verb in option (B), 'spans', correctly agrees with its singular subject 'expertise'. Option (C), 'has been working', correctly agrees with the singular subject 'portion'. Option (E) is a noun phrase and contains no grammatical error.",
+        "category": "AGR"
+    },
+    {
+        "problem": "The intricate tapestry of regulations, [each] (B) meticulously woven to prevent even the slightest deviation, [often obscures] (C) the primary goal of public safety, leading to a bureaucratic labyrinth [where every] (D) proposed solution, regardless of its merits, [are entangled] (E) in endless procedural reviews.",
+        "answer": "E",
+        "solution": "The error occurs in option (E), '[are entangled]'. The subject of the clause is the singular noun phrase 'every proposed solution'. The quantifier 'every' specifies that each solution is considered individually, thus requiring a singular verb. The plural verb form 'are entangled' creates an agreement (AGR) error with the singular subject. It should correctly be 'is entangled'.",
+        "category": "AGR"
+    },
+    {
+        "problem": "The intricate network of dependencies, which undergirds the very fabric of society and often goes unnoticed by those who benefit most from its stability, [remain] (B) a testament to human cooperation, a phenomenon [that] (C) always seems to defy simple explanations and [often] (D) inspires both hope and despair [depending on] (E) one's perspective.",
+        "answer": "B",
+        "solution": "Option (B), 'remain', contains an AGREEMENT error. The subject of the main clause is 'The intricate network' (singular), which is separated from the verb by a long adjective clause. The verb must agree in number with its singular subject, 'network'. Therefore, 'remains' (singular verb) should be used instead of 'remain' (plural verb).",
+        "category": "AGR"
+    },
+    {
+        "problem": "A nuanced interpretation of the complex legal precedents, particularly those established by the landmark civil rights cases, [require] (B) meticulous scholarly attention, and [its] (C) implications often extend beyond mere legal doctrine, shaping public policy and [influencing] (D) societal norms in ways that [few] (E) initially anticipate.",
+        "answer": "B",
+        "solution": "Option (B), '[require]', is an AGREEMENT error. The main subject of the verb is the singular noun 'interpretation', which is separated from the verb by the long prepositional phrase 'of the complex legal precedents, particularly those established by the landmark civil rights cases.' Despite the presence of plural nouns ('precedents', 'cases') within this intervening phrase, the true subject 'interpretation' is singular and thus requires a singular verb. Therefore, the verb should be 'requires' to agree with its singular subject. Options (C), (D), and (E) are grammatically correct: '[its]' (C) correctly refers to the singular noun 'interpretation'; '[influencing]' (D) is a present participle used in parallel with 'shaping'; and '[few]' (E) functions correctly as a pronoun meaning 'few people' and takes the plural verb 'anticipate'.",
+        "category": "AGR"
+    },
+    {
+        "problem": "The primary challenge for developing nations, [which typically struggle] (B) with inadequate infrastructure and limited resources, [stem] (C) from the complex interplay of rapid population growth and environmental degradation, [requiring] (D) comprehensive strategies that often demand [unprecedented] (E) international cooperation.",
+        "answer": "C",
+        "solution": "Option (C), 'stem', contains an AGREEMENT error. The subject of the main clause is 'The primary challenge' (singular). The verb 'stem' is in its plural form and does not agree with the singular subject. It should be 'stems' to correctly match 'The primary challenge'. Option (B), '[which typically struggle]', is correct as 'which' refers to the plural 'nations', and 'struggle' is the appropriate plural verb. Options (D) and (E) also contain no errors, with '[requiring]' (D) properly introducing a participial phrase modifying the preceding clause, and '[unprecedented]' (E) serving as a correct adjective modifying 'international cooperation'.",
+        "category": "AGR"
+    },
+    {
+        "problem": "The series of reforms, each of which [were intended] (B) to curb bureaucratic inefficiency and promote transparency, [has been met] (C) with considerable resistance, largely because the government, along with many of its closest allies, [insists] (D) that the existing regulations, despite [their] (E) perceived flaws, sufficiently serve the public interest.",
+        "answer": "B",
+        "solution": "Option (B) contains an AGREEMENT error. In the subordinate clause 'each of which were intended', the true subject governing the verb is the indefinite pronoun 'each', which is always singular. Therefore, the verb must agree in number and be singular. The correct form should be 'each of which *was* intended', not 'were intended'. Options (C), (D), and (E) are grammatically correct. In (C), 'series' is a singular collective noun, taking the singular verb 'has been met'. In (D), 'the government' is the singular subject, and the intervening phrase 'along with many of its closest allies' does not affect the singular verb 'insists'. In (E), the possessive pronoun 'their' correctly refers to the plural antecedent 'regulations', maintaining number agreement.",
+        "category": "AGR"
+    },
+    {
+        "problem": "Despite the seemingly insurmountable challenges posed by the project's novel methodology, it was clear that every one of the researchers, each having dedicated years to similar endeavors, was confident that the intricate data analysis, which involved sophisticated algorithms, [were] (E) within their collective grasp.",
+        "answer": "E",
+        "solution": "Option (E), 'were', contains an AGREEMENT error. The subject of the verb 'were' is 'data analysis', which is a singular noun. Therefore, the verb should be singular, 'was', not plural 'were'. The intervening adjective clause 'which involved sophisticated algorithms' modifies 'data analysis' but does not change the singular nature of the subject that precedes the verb.",
+        "category": "AGR"
+    },
+    {
+        "problem": "The collection of antique maps, [each] (B) meticulously restored and framed, [were] (C) believed by the curator to be among the most valuable in the entire institution, [a claim] (D) that, [despite scrutiny] (E), no expert has yet convincingly refuted.",
+        "answer": "C",
+        "solution": "Option (C), 'were', contains an AGREEMENT error. The true subject of the main clause is 'collection', which is a singular noun. The verb 'were believed' is plural and therefore does not agree with its singular subject. The intervening phrase starting with 'each meticulously restored and framed' modifies 'maps' within the prepositional phrase 'of antique maps' and does not alter the singular number of the subject 'collection'. The verb should be 'was believed' to correctly agree with the singular subject 'collection'.",
+        "category": "AGR"
+    },
+    {
+        "problem": "The committee's deliberations, which often [spanned] (B) several weeks and involved numerous contentious debates, ultimately [was met] (C) with a resounding public outcry, a response [that] (D) [no one] (E) on the board had anticipated.",
+        "answer": "C",
+        "solution": "Option (C), '[was met]', contains an AGREEMENT error. The subject of the main clause is 'deliberations', which is a plural noun. However, the verb 'was met' is singular. To maintain subject-verb agreement, the verb should be plural, 'were met'. The long intervening relative clause 'which often spanned several weeks and involved numerous contentious debates' might obscure the true subject-verb relationship, leading to the error. Option (B) 'spanned' correctly uses the past tense verb for the plural subject 'which' (referring to 'deliberations'). Option (D) 'that' is an appropriate relative pronoun introducing an adjective clause modifying 'response'. Option (E) 'no one' is a singular indefinite pronoun, but the verb 'had anticipated' is in the past perfect tense and does not require number agreement with the subject in this context.",
+        "category": "AGR"
+    },
+    {
+        "problem": "Despite the seemingly insurmountable obstacles presented by bureaucratic inertia and entrenched corporate interests, neither the fervent appeals of the beleaguered community members nor the increasingly dire reports from environmental scientists [has] (B) managed to sway the city council, who, surprisingly, appear more concerned with abstract legal precedents than with tangible ecological preservation.",
+        "answer": "B",
+        "solution": "Option (B) contains an AGREEMENT error. The compound subject 'neither the fervent appeals... nor the increasingly dire reports...' consists of two plural nouns ('appeals' and 'reports') connected by 'neither... nor'. When two or more plural subjects are joined by 'nor', the verb must be plural. Therefore, 'has' (singular) is incorrect and should be 'have' (plural) to agree with 'reports', the nearer plural subject, as well as with both plural subjects collectively.",
+        "category": "AGR"
+    },
+    {
+        "problem": "The intricate mosaic of cultural traditions and contemporary trends, [which, in their rich tapestry,] (B) often profoundly shape the collective identity of a nation, [have] (C) long been a subject of intense academic inquiry, compelling researchers to [explore] (D) [its] (E) evolving nuances.",
+        "answer": "C",
+        "solution": "Option (C), '[have]', is an AGREEMENT error. The main subject of the sentence is the singular noun 'mosaic' (The intricate mosaic... have). Despite the intervening plural nouns 'traditions' and 'trends' and the complex relative clause, the main verb must agree with 'mosaic'. Therefore, the plural verb 'have' should be the singular 'has' ('The intricate mosaic... has long been...'). Options (B), (D), and (E) are grammatically correct. In (B), the relative pronoun 'which' correctly refers to the plural 'cultural traditions and contemporary trends' (as indicated by 'in their rich tapestry'), so the plural verb 'shape' is appropriate. In (D), '[explore]' is a correctly formed infinitive, completing the phrase 'compelling researchers to explore'. In (E), the possessive pronoun '[its]' correctly refers to the singular noun 'mosaic', maintaining agreement.",
+        "category": "AGR"
+    },
+    {
+        "problem": "The intricate legal precedents, many of [which was established] (B) centuries ago, [continue] (C) to pose formidable challenges to modern jurists trying to reconcile ancient statutes with [contemporary] (D) ethical frameworks, a task demanding [both] (E) historical insight and nuanced interpretation.",
+        "answer": "B",
+        "solution": "Option (B), '[which was established]', contains an AGREEMENT error. The relative pronoun 'which' refers to its plural antecedent 'precedents'. Therefore, the verb in the relative clause should be plural, 'were established', to agree in number with 'which'. The sentence should read 'many of which were established centuries ago'.",
+        "category": "AGR"
+    },
+    {
+        "problem": "The intricate patterns of migratory birds, many of which follow ancestral routes with uncanny precision, [has] (B) always fascinated ornithologists, who marvel at [their] (C) unwavering instinct to navigate across continents, a journey [that] (D) demands not only endurance but also a profound understanding of celestial cues, [a demand] (E) often beyond human comprehension.",
+        "answer": "B",
+        "solution": "Option (B) contains an AGREEMENT error. The subject of the main clause is 'The intricate patterns,' which is a plural noun. However, the verb 'has' is singular. To correctly agree with the plural subject 'patterns,' the verb should be 'have.' The intervening phrase 'of migratory birds, many of which follow ancestral routes with uncanny precision' modifies 'patterns' but does not change the number of the subject. Therefore, the sentence should read 'The intricate patterns... have always fascinated ornithologists...' Option (C), 'their,' correctly refers to the plural antecedent 'migratory birds' as the possessor of the 'unwavering instinct.' Option (D), 'that,' correctly introduces a relative clause modifying the singular noun 'journey,' and the verb 'demands' agrees with 'that.' Option (E), 'a demand,' functions as a correct appositive, clarifying the nature of the 'profound understanding of celestial cues' and is grammatically sound.",
+        "category": "AGR"
+    },
+    {
+        "problem": "More than just the individual contributions of its members, the collective impact of the research team [were] (B) what truly impressed the funding committee, leading to [its] (C) decision to award them a substantial grant, which [allowed for] (D) further exploration into a phenomenon [whose] (E) complexity had previously deterred investigation.",
+        "answer": "B",
+        "solution": "Option (B) contains an AGREEMENT error. The main subject of the clause 'the collective impact of the research team were what truly impressed the funding committee' is 'impact', which is a singular noun. Therefore, the verb must also be singular. 'Were' should be changed to 'was' to agree with the singular subject 'impact'. The introductory phrase and the intervening prepositional phrase ('of the research team') do not change the number of the main subject.",
+        "category": "AGR"
+    },
+    {
+        "problem": "The subtle interplay of light and shadow, [along with the meticulous brushwork,] (B) [are] (C) what truly distinguishes Rembrandt's masterpieces, making them not merely paintings [but also] (D) profound visual narratives that capture the human condition with [unparalleled] (E) depth.",
+        "answer": "C",
+        "solution": "Option (C), '[are]', is an AGREEMENT error. The true subject of the main clause is the singular noun 'interplay'. The phrase 'along with the meticulous brushwork' functions as a prepositional phrase modifying 'interplay'; it does not create a compound subject that would require a plural verb. Therefore, the verb must agree in number with the singular subject 'interplay', and should be 'is' rather than 'are'.",
+        "category": "AGR"
+    },
+    {
+        "problem": "The intricate tapestry of historical narratives, each one [interwoven with threads] (B) of myth and undeniable fact, nevertheless [demand] (C) a discerning eye from any scholar [who attempts] (D) to unravel [their complex origins] (E) without bias.",
+        "answer": "C",
+        "solution": "Option (C), 'demand', is an AGREEMENT error. The true subject of the main clause is 'The intricate tapestry', which is a singular noun. Therefore, the main verb that agrees with 'tapestry' must also be singular. The plural verb 'demand' should be replaced with the singular form 'demands' to correctly agree with its singular subject. The lengthy intervening phrase 'each one interwoven with threads of myth and undeniable fact' modifies elements within the subject phrase but does not alter the singular number of the main subject 'tapestry'.",
+        "category": "AGR"
+    },
+    {
+        "problem": "A peculiar feature of ancient Egyptian pyramids, [namely] (B) their perfect alignment with cardinal directions, [have mystified] (C) researchers for centuries, especially considering the limited tools [that were available] (D) to the builders of [those] (E) eras.",
+        "answer": "C",
+        "solution": "Option (C), 'have mystified', contains an AGREEMENT error. The subject of the main clause is 'feature', which is a singular noun. The verb 'have mystified' is plural, creating a mismatch. The correct form should be the singular verb 'has mystified' to agree with its singular subject. The lengthy intervening phrase 'namely their perfect alignment with cardinal directions' contains plural nouns ('directions'), which is intended to obscure the singular subject 'feature' and mislead the reader into selecting a plural verb.",
+        "category": "AGR"
+    },
+    {
+        "problem": "A careful analysis of the numerous factors that [contribute] (B) to the phenomenon of urban sprawl, [including] (C) shifts in demographic patterns and the inadequacy of existing infrastructure, [reveal] (D) that policy interventions alone are insufficient to curb [its pervasive] (E) expansion.",
+        "answer": "D",
+        "solution": "Option (D) contains an AGREEMENT error. The main subject of the sentence is the singular noun phrase \"A careful analysis.\" Despite the long intervening phrase \"of the numerous factors that contribute to the phenomenon of urban sprawl, including shifts in demographic patterns and the inadequacy of existing infrastructure,\" the verb must agree in number with its singular subject. The verb \"reveal\" is in the plural form. For a singular subject like \"analysis,\" the verb should be in the singular third-person form, \"reveals.\"",
+        "category": "AGR"
+    },
+    {
+        "problem": "Neither of the meticulously drafted proposals, [even those lauded for their innovative approaches] (B), [are] (C) likely to garner enough support to pass, [thus necessitating] (D) a radical revision of [its] (E) central tenets.",
+        "answer": "C",
+        "solution": "Option (C), 'are', contains an AGREEMENT error. The subject of the main clause is the indefinite pronoun 'Neither', which is always singular in this context. Therefore, the verb must also be singular ('is') to agree with its subject in number. Options (B), (D), and (E) do not contain errors. In (B), the phrase '[even those lauded for their innovative approaches]' correctly uses 'those' to refer to the plural 'proposals' and 'their' to refer to 'those'. In (D), '[thus necessitating]' is a correctly formed and used participial phrase. In (E), the possessive pronoun '[its]' correctly agrees with the singular subject 'Neither' for pronoun-antecedent agreement.",
+        "category": "AGR"
+    },
+    {
+        "problem": "Neither the intricate plot developments nor the subtle character nuances [lend] (B) themselves easily to a simplistic summary, a fact that [has] (C) frustrated numerous literary critics [who] (D) find that the novel's depth and complexity [resists] (E) facile interpretation.",
+        "answer": "E",
+        "solution": "Option (E) contains an AGREEMENT error. The subject of the subordinate clause is the compound noun phrase \"depth and complexity.\" When two singular nouns are joined by the coordinating conjunction \"and,\" they form a plural subject. Therefore, the verb should be plural, \"resist,\" to agree with the plural subject. The singular verb \"resists\" creates an agreement error. Options (B), (C), and (D) are all grammatically correct: (B) \"lend\" correctly agrees with the nearer plural subject \"nuances\" in the \"neither...nor\" construction; (C) \"has\" correctly agrees with the singular antecedent \"fact\"; and (D) \"who\" is the appropriate relative pronoun for its plural human antecedent \"critics.\"",
+        "category": "AGR"
+    },
+    {
+        "problem": "The diplomat was known not only for [her sharp wit] (B) and [her impeccable negotiation skills] (C), but also [because she could] (D) navigate complex political landscapes [with ease] (E).",
+        "answer": "D",
+        "solution": "Option (D), 'because she could', creates a PARALLELISM error. The sentence uses the correlative conjunction 'not only... but also' to connect ideas, which demands that the grammatical structure following 'not only' be parallel to the structure following 'but also'. In this sentence, 'not only' is followed by the prepositional phrase 'for her sharp wit and her impeccable negotiation skills'. However, 'but also' is followed by the adverb clause 'because she could navigate complex political landscapes with ease'. A prepositional phrase is not grammatically parallel to an adverb clause. To correct this, the structure after 'but also' should be made parallel, for instance, by stating 'but also for her ability to navigate complex political landscapes with ease'.",
+        "category": "PAR"
+    },
+    {
+        "problem": "The historian claimed that not only [did the ancient texts contradict] (B) previously held beliefs about the empire\u2019s origins, but also the archaeological evidence [further undermining] (C) long-established theories, thereby necessitating a complete re-evaluation of the period, [a task] (D) that would reshape the field and [which] (E) many scholars eagerly awaited.",
+        "answer": "C",
+        "solution": "Option (C), 'further undermining', creates a PARALLELISM error. The correlative conjunction 'not only...but also' requires the elements it connects to be grammatically parallel. The first element, 'did the ancient texts contradict' in option (B), is an inverted clause. However, the second element, 'the archaeological evidence further undermining' in option (C), is an absolute phrase (noun + participial phrase). A clause and an absolute phrase are not grammatically parallel structures. To maintain parallelism, option (C) should also be a clause, such as 'but also the archaeological evidence further undermined long-established theories.'",
+        "category": "PAR"
+    },
+    {
+        "problem": "Dr. Anya Sharma, [whose groundbreaking research] (B) had long been considered purely speculative, demonstrated an unparalleled intellect not only [through her mastery of complex algorithms and her intuitive grasp of theoretical physics] (C), but also [when she applied these principles innovatively] (D) to previously intractable problems, [thus revolutionizing] (E) the entire field of bioinformatics.",
+        "answer": "D",
+        "solution": "Option (D) contains a PARALLELISM error. The correlative conjunction 'not only...but also' requires that the elements it connects be in similar grammatical structures. The first element, 'through her mastery of complex algorithms and her intuitive grasp of theoretical physics' (C), is a prepositional phrase. However, the second element, 'when she applied these principles innovatively' (D), is an adverbial clause. To maintain parallelism, (D) should also be a prepositional phrase (e.g., 'through her innovative application of these principles') or (C) should be an adverbial clause.",
+        "category": "PAR"
+    },
+    {
+        "problem": "The esteemed scientist attributed his groundbreaking discoveries not only [to years of rigorous experimentation] (B) but also [because he collaborated extensively] (C) with international research teams, a methodology [that] (D) allowed him to synthesize diverse perspectives and [to overcome] (E) theoretical impasses.",
+        "answer": "C",
+        "solution": "Option (C), '[because he collaborated extensively],' is a PARALLELISM error. The correlative conjunction 'not only... but also' requires the grammatical structures it connects to be parallel. Here, the prepositional phrase 'to years of rigorous experimentation' is incorrectly paired with the adverb clause 'because he collaborated extensively.' To achieve parallelism, both elements should be structured similarly, for instance, 'not only to years of rigorous experimentation but also to extensive collaboration with international research teams' or 'not only because he experimented rigorously for years but also because he collaborated extensively with international research teams.'",
+        "category": "PAR"
+    },
+    {
+        "problem": "The professor's lecture covered not only the intricate details of quantum mechanics [but also delving deeply] (B) into its philosophical implications, thereby illustrating both the scientific rigor [and] (C) [the profound mysteries] (D) that continue to baffle researchers, [a complexity] (E) that challenges conventional paradigms.",
+        "answer": "B",
+        "solution": "Option (B) contains a PARALLELISM error. The correlative conjunctions 'not only...but also' demand that the elements they connect be grammatically parallel. Here, 'not only' introduces the noun phrase 'the intricate details of quantum mechanics'. However, 'but also' introduces the participial phrase 'delving deeply into its philosophical implications'. To maintain parallelism, both structures should be of the same grammatical form; for instance, it should be 'not only the intricate details... but also the philosophical implications' (both noun phrases) or 'not only delving into the intricate details... but also delving deeply into its philosophical implications' (both participial phrases).",
+        "category": "PAR"
+    },
+    {
+        "problem": "While Dr. Anya Sharma\u2019s groundbreaking research not only revolutionized our understanding of quantum entanglement but also [was] (B) [instrumental in] (C) developing novel cryptographic methods, it simultaneously contributed to the ongoing debate about the ethics of artificial intelligence, thereby ensuring secure communication and [that the future of digital privacy was safeguarded] (E).",
+        "answer": "E",
+        "solution": "Option (E) contains a PARALLELISM error. The sentence attempts to present two resulting ideas connected by 'and': 'ensuring secure communication' and 'that the future of digital privacy was safeguarded'. The first phrase, 'ensuring secure communication,' is a gerund phrase. The second phrase, 'that the future of digital privacy was safeguarded,' is a noun clause. These two grammatical structures are not parallel; to correct the error, the second phrase should also be a gerund phrase, such as 'safeguarding the future of digital privacy'.",
+        "category": "PAR"
+    },
+    {
+        "problem": "The architect's design sought not only [to maximize] (B) natural light and ventilation but also [that its] (C) integration with the existing historical facade be crucial, a complex challenge [that] (D) demanded both ingenuity and [an understanding] (E) of preservation techniques.",
+        "answer": "C",
+        "solution": "The sentence contains a Parallelism (PAR) error in option (C). The correlative conjunctions 'not only...but also' require the elements they connect to be in similar grammatical structures. The first element, implied by '[to maximize]' (B), is the infinitive phrase 'to maximize natural light and ventilation'. The second element, introduced by '[that its]' (C), is the noun clause 'that its integration with the existing historical facade be crucial'. An infinitive phrase and a noun clause are not grammatically parallel. To correct this, (C) should also be an infinitive phrase, such as 'to integrate with the existing historical facade'.",
+        "category": "PAR"
+    },
+    {
+        "problem": "To truly master the intricate philosophical system, students are expected not only [to delve into its foundational texts] (B) but also [to critically evaluate its historical context] (C), and [the application of its principles to contemporary ethical dilemmas] (D), a process [that often requires] (E) significant intellectual flexibility.",
+        "answer": "D",
+        "solution": "Option (D) contains a Parallelism (PAR) error. The sentence uses the correlative conjunctions \"not only...but also\" to introduce a series of expectations for students. The first two items, \"[to delve into its foundational texts]\" (B) and \"[to critically evaluate its historical context]\" (C), are correctly expressed as infinitive phrases, establishing a parallel structure. However, the third item, \"[the application of its principles to contemporary ethical dilemmas]\" (D), is a noun phrase (specifically, a gerund acting as a noun within the phrase) and thus breaks the parallelism. To maintain parallel structure, it should also be an infinitive phrase, such as \"to apply its principles to contemporary ethical dilemmas.\" Options (B), (C), and (E) are grammatically correct; (B) and (C) correctly establish the parallel structure within the \"not only...but also\" construction, and (E) correctly uses a relative clause to modify \"process.\"",
+        "category": "PAR"
+    },
+    {
+        "problem": "The committee decided to review the existing bylaws, [to update] (B) them for modern relevance, [and instituting] (C) a transparent process for future amendments, [a move] (D) that was widely praised as forward-thinking [and essential] (E) for good governance.",
+        "answer": "C",
+        "solution": "Option (C), '[and instituting]', contains a PARALLELISM error. The sentence sets up a series of actions that the committee decided to undertake: 'to review', 'to update', and 'to institute'. The first two elements are infinitive phrases ('to review' and 'to update'). For grammatical parallelism, the third element in the series must also be an infinitive phrase, 'and to institute', rather than the present participle 'instituting'. This mismatch breaks the required parallel structure for items in a series. Options (B), (D), and (E) are grammatically correct; (B) correctly maintains the infinitive series, (D) is a grammatically sound appositive phrase referring to the preceding clause, and (E) correctly uses parallel adjectives to describe 'move'.",
+        "category": "PAR"
+    },
+    {
+        "problem": "The explorer's arduous journey involved [not only scaling treacherous peaks] (B) and [navigating dense, uncharted forests] (C), but also [it demanded] (D) an almost superhuman resilience to the elements, a challenge [that tested] (E) the limits of human endurance.",
+        "answer": "D",
+        "solution": "Option (D), 'it demanded', contains a PARALLELISM error. The correlative conjunctions 'not only... but also' require the elements they connect to be grammatically parallel. The first part of the construction ('not only scaling treacherous peaks and navigating dense, uncharted forests') consists of a compound gerund phrase. However, the second part, 'it demanded an almost superhuman resilience...', introduces an independent clause, thereby breaking the required parallel structure. To maintain parallelism, the 'but also' clause should also be a gerund phrase, such as 'demanding an almost superhuman resilience' or 'the demanding of an almost superhuman resilience'.",
+        "category": "PAR"
+    },
+    {
+        "problem": "The intricate diplomatic strategy, meticulously planned over months, sought not only [to avert immediate conflict] (B) but also [securing a lasting peace] (C) in the volatile region, a delicate balance [that] (D) demanded both astute negotiation [and unwavering resolve] (E).",
+        "answer": "C",
+        "solution": "Option (C) contains a PAR (Parallelism) error. The correlative conjunctions \"not only...but also\" require the ideas they connect to be expressed in parallel grammatical structures. The phrase \"[to avert immediate conflict]\" (B) is an infinitive phrase. To maintain parallelism, the phrase following \"but also\" should likewise be an infinitive phrase (e.g., \"to secure a lasting peace\"). However, \"[securing a lasting peace]\" (C) is a gerund phrase, creating a structural mismatch and violating the rule of parallelism. Options (B), (D), and (E) are grammatically correct.",
+        "category": "PAR"
+    },
+    {
+        "problem": "The venerable scholar was celebrated for [his profound erudition] (B), for [having meticulously compiled] (C) ancient manuscripts, and [his relentless pursuit] (D) of obscure historical truths, a dedication [which distinguished] (E) him from his contemporaries.",
+        "answer": "C",
+        "solution": "Option (C) contains a PARALLELISM error. The sentence lists three reasons for which the scholar was celebrated, each introduced by the preposition 'for'. For proper parallelism, these three items should share the same grammatical structure. Option (B), '[his profound erudition]', is a noun phrase, and option (D), '[his relentless pursuit]', is also a noun phrase. However, option (C), '[having meticulously compiled]', initiates a gerund phrase ('having meticulously compiled ancient manuscripts'), which breaks the parallel structure established by the other two noun phrases. To correct this, all items should be consistently either noun phrases or gerund phrases.",
+        "category": "PAR"
+    },
+    {
+        "problem": "The esteemed critic declared that the new play was not only [a triumph of imaginative staging] (B) but also [it profoundly explored] (C) existential dread, yet he remained cautious [about its] (D) long-term impact on the theatrical landscape, a sentiment that [many of his] (E) contemporaries shared.",
+        "answer": "C",
+        "solution": "Option (C), '[it profoundly explored]', creates a PARALLELISM error. The correlative conjunction 'not only...but also' requires that the elements it connects be grammatically parallel. Here, 'not only' is followed by the noun phrase 'a triumph of imaginative staging' (B), which functions as a predicate nominative. However, 'but also' is followed by the independent clause 'it profoundly explored existential dread'. To maintain parallelism, (C) should also be a noun phrase, such as 'a profound exploration of existential dread', to match the structure introduced by (B). Options (B), (D), and (E) are grammatically correct. (B) is part of the intended parallel structure. (D) 'about its' correctly uses the possessive pronoun 'its' referring to 'play'. (E) 'many of his' correctly uses the possessive pronoun 'his' referring to 'critic'.",
+        "category": "PAR"
+    },
+    {
+        "problem": "The esteemed professor was known for his [rigorous lectures] (B), his [meticulous research] (C), and [to inspire] (D) students with his passion, qualities [that earned] (E) him numerous accolades throughout his career.",
+        "answer": "D",
+        "solution": "Option (D), '[to inspire]', creates a PARALLELISM error. The sentence lists qualities for which the professor was known, using the structure 'known for X, Y, and Z'. Items (B) '[rigorous lectures]' and (C) '[meticulous research]' are parallel noun phrases (specifically, noun phrases modified by a possessive adjective). However, '[to inspire]' (D) is an infinitive, which breaks the required parallelism with the preceding noun phrases in the series. To correct the sentence, the structure introduced by (D) should also be a noun phrase, such as 'his ability to inspire students with his passion' or 'his inspiring passion for students'.",
+        "category": "PAR"
+    },
+    {
+        "problem": "The committee, after careful deliberation and extensive research, concluded that the proposed reforms would not only improve the efficiency of the administrative processes [but also contributing significantly] (B) to a more transparent and accountable governance structure, thereby [fostering] (C) greater public trust; [they] (D) also noted that the implementation phase, [though challenging,] (E) was essential for long-term success.",
+        "answer": "B",
+        "solution": "Option (B) contains a PARALLELISM error. The correlative conjunction 'not only... but also' demands that the elements it connects be grammatically parallel. The first element, 'improve the efficiency' (a verb phrase following 'would'), is not parallel with the second element, 'contributing significantly' (a participial phrase). To maintain parallelism, the second element should also be a verb phrase, specifically 'contribute significantly', matching the form of 'improve'.",
+        "category": "PAR"
+    },
+    {
+        "problem": "The orator captivated the audience not only with his eloquent speeches but also [because he demonstrated] (B) an uncanny ability to connect with individual listeners, thereby [ensuring] (C) that his message resonated [deeply] (D) and [personally] (E) with everyone present.",
+        "answer": "B",
+        "solution": "Option (B), '[because he demonstrated]', introduces a PARALLELISM error. The correlative conjunction 'not only...but also' requires the elements it connects to be grammatically parallel. Here, 'with his eloquent speeches' is a prepositional phrase, while 'because he demonstrated' is an adverb clause. To achieve parallelism, both elements should be of the same grammatical structure, for example, 'not only with his eloquent speeches but also with his uncanny ability to connect...' or 'not only because he delivered eloquent speeches but also because he demonstrated an uncanny ability...'.",
+        "category": "PAR"
+    },
+    {
+        "problem": "The board of directors commended the CEO not only [for having successfully navigated] (B) the company through an unprecedented economic downturn but also [because he consistently championed] (C) innovative employee welfare programs, thereby solidifying the firm\u2019s reputation [as both profitable] (D) and [socially responsible] (E).",
+        "answer": "C",
+        "solution": "Option (C), '[because he consistently championed]', creates a PARALLELISM error. The correlative conjunction 'not only...but also' requires the elements it connects to be grammatically parallel. The first element, 'for having successfully navigated the company through an unprecedented economic downturn,' is a prepositional phrase (preposition 'for' followed by a gerund phrase). The second element, 'because he consistently championed innovative employee welfare programs,' is an adverb clause. These two grammatical structures are not parallel. To correct the sentence, both elements should be of the same grammatical type, for instance, both prepositional phrases (e.g., 'not only for having successfully navigated... but also for consistently championing...') or both clauses.",
+        "category": "PAR"
+    },
+    {
+        "problem": "The architect, known for her audacious designs, was not only proficient [at drafting intricate blueprints] (B) but also [to present compelling arguments] (C) to skeptical clients, a dual expertise [that made] (D) her invaluable to the firm, [however] (E) demanding the projects became.",
+        "answer": "C",
+        "solution": "Option (C), '[to present compelling arguments]', contains a PARALLELISM error. The correlative conjunction 'not only... but also' requires the elements it connects to be grammatically parallel. Here, 'not only' introduces a prepositional phrase with a gerund ('at drafting'), but 'but also' introduces an infinitive phrase ('to present'). To correct this, the second element should also be a prepositional phrase with a gerund, such as 'at presenting' or 'in presenting', to match the structure of the first part of the comparison.",
+        "category": "PAR"
+    },
+    {
+        "problem": "The committee was tasked not only [with investigating the financial irregularities] (B) that had plagued the organization for years, [but also to propose] (C) comprehensive reforms designed to restore public trust and ensure fiscal probity, [a challenge which] (D) they approached with unwavering determination [despite the daunting complexity of the task] (E).",
+        "answer": "C",
+        "solution": "Option (C), '[but also to propose]', creates a parallelism error. The correlative conjunction \"not only...but also\" requires that the grammatical structures it connects be similar. The first element, introduced by \"not only,\" is the prepositional phrase '[with investigating the financial irregularities]' (B). The second element, introduced by \"but also,\" is the infinitive phrase '[to propose] comprehensive reforms'. To maintain parallelism, both elements must be either prepositional phrases (e.g., 'with proposing') or infinitive phrases (e.g., 'to investigate'). As written, a prepositional phrase is incorrectly paired with an infinitive phrase.",
+        "category": "PAR"
+    },
+    {
+        "problem": "Driven by a singular ambition, the scientist vowed either [to prove] (B) his radical hypothesis, [publishing] (C) his findings in a top-tier journal, or [to secure] (D) funding for further groundbreaking research [before] (E) the end of the grant period.",
+        "answer": "C",
+        "solution": "Option (C), '[publishing]', introduces a PARALLELISM error. The sentence uses the correlative conjunction 'either...or' to connect a series of goals. For correct parallelism, all items in such a series must be expressed in similar grammatical structures. The first goal, 'to prove his radical hypothesis' (B), is an infinitive phrase, as is the third goal, 'to secure funding' (D). However, 'publishing his findings in a top-tier journal' begins with a present participle ('publishing'), creating a participial phrase. This structure is not parallel with the infinitive phrases, breaking the expected grammatical balance. To correct the error, 'publishing' should be changed to an infinitive phrase, such as 'to publish'.",
+        "category": "PAR"
+    },
+    {
+        "problem": "The intricate algorithm, [designed to optimize resource allocation,] (B) proved considerably more beneficial for the fledgling startups than [it was for we seasoned venture capitalists] (C), [who often found its predictive models] (D) too simplistic [for complex market dynamics] (E).",
+        "answer": "C",
+        "solution": "Option (C) contains a CASE error due to the incorrect use of a pronoun in an elliptical construction. The comparison implies 'more beneficial... than it was [beneficial] for X'. Since 'for' is a preposition, the pronoun serving as its object must be in the object case. Therefore, 'we' (subject case) should be 'us' (object case), making the correct phrase 'than it was for us seasoned venture capitalists'.",
+        "category": "CASE"
+    },
+    {
+        "problem": "Although the new marketing strategy was clearly more innovative than [their] (B) competitors' recent campaigns, few analysts, except [she] (C), recognized its potential impact, consistently underestimating its reach more than [we] (D) had, despite having access to identical preliminary data.",
+        "answer": "C",
+        "solution": "Option (C), 'she', contains a CASE error. In this context, 'except' functions as a preposition, which requires an object pronoun. Therefore, the correct form should be 'her', making the phrase 'except her'. Option (B) correctly uses the possessive adjective 'their' to modify 'competitors''. Option (D), 'we', is correct as it is part of an elliptical construction 'more than we had (underestimated it)', where 'we' functions as the subject of the implied verb.",
+        "category": "CASE"
+    },
+    {
+        "problem": "Though he considered himself a more adept negotiator than [them] (B), the seasoned diplomat found himself outmaneuvered by the younger, more aggressive delegation, [their] (C) tactics unexpectedly sophisticated and [their] (D) resolve unyielding, a situation [which] (E) forced him to reconsider his approach.",
+        "answer": "B",
+        "solution": "Option (B) contains a CASE error. In elliptical constructions, where words are omitted but implied, pronouns must maintain the correct case based on their role in the expanded clause. Here, the comparison is between \"he\" (subject) and the implied subject \"they\" (as in, \"than they were\"). Therefore, the subject pronoun \"they\" should be used instead of the object pronoun \"them\". Options (C) and (D) correctly use the possessive adjective \"their\" to modify the nouns \"tactics\" and \"resolve\" within the absolute phrases. Option (E) correctly uses the relative pronoun \"which\" to introduce an adjective clause modifying the noun \"situation.\"",
+        "category": "CASE"
+    },
+    {
+        "problem": "Despite the rigorous onboarding process, the new intern, whose commitment to deadlines was unparalleled, consistently worked longer hours than [them] (D), often returning to the office long after others [had departed] (E) and [remaining] (C) until all tasks [were meticulously] (B) completed.",
+        "answer": "D",
+        "solution": "Option (D) contains a CASE error. In the elliptical comparison 'worked longer hours than them', the pronoun 'them' should be in the subjective case because the comparison is between the intern (subject) and 'they' (implied subject of the omitted verb 'did'). The full construction would be 'worked longer hours than they did'. Therefore, 'them' should be 'they'.",
+        "category": "CASE"
+    },
+    {
+        "problem": "Despite the junior analyst's firm conviction that [she] (B) displayed a keener insight into market trends than [him] (C), the senior partners, meticulously examining each submission, ultimately concluded that her strategic assessments were rarely more cogent than [those of his] (D) less experienced colleague, a judgment [which] (E) deeply rankled the ambitious young professional.",
+        "answer": "C",
+        "solution": "Option (C) contains a CASE error in an elliptical construction. The phrase 'than him' implies a comparison between the subject pronoun 'she' (in 'she displayed') and the pronoun following 'than'. In such comparative elliptical clauses, the implied verb (here, 'displayed') dictates the pronoun's case. The complete thought would be 'than he displayed,' requiring the subject pronoun 'he,' not the object pronoun 'him.' Options (B), (D), and (E) are grammatically correct: '[she]' (B) is correctly used as the subject of 'displayed'; '[those of his]' (D) correctly uses 'those' to refer to 'assessments' and 'his' as a possessive adjective modifying 'colleague'; and '[which]' (E) properly introduces a non-restrictive adjective clause modifying 'judgment'.",
+        "category": "CASE"
+    },
+    {
+        "problem": "Amidst the clamor of the annual academic conference, where innovative theories [were enthusiastically debated] (B) and challenged, it became apparent that the younger scholars, many of [whom] (C) harbored revolutionary ideas, found themselves subjected to more rigorous scrutiny from the established guard than [whomever] (D) had presented in previous years, an imbalance that caused considerable frustration [among them] (E).",
+        "answer": "D",
+        "solution": "Option (D) contains a CASE error. In the comparison 'than whomever had presented in previous years,' the pronoun introduces a clause where it functions as the subject of the verb 'had presented.' According to the rules of pronoun case, a pronoun acting as the subject of a verb in its own clause must be in the subject case. Therefore, 'whoever' should be used instead of 'whomever.' The full, implied clause would be 'than whoever had presented in previous years (had been subjected to scrutiny).'",
+        "category": "CASE"
+    },
+    {
+        "problem": "The committee, recognizing the intricate legal landscape, specifically tasked two members with drafting the crucial proposal: [myself] (B) and the vice-chair, [who] (C) possessed an unparalleled understanding of the internal regulations, a depth of knowledge that [was] (D) truly invaluable, especially when considering [its] (E) complex legal ramifications.",
+        "answer": "B",
+        "solution": "Option (B), '[myself]', contains a CASE error. The phrase 'myself and the vice-chair' functions as an appositive that renames 'two members'. Since 'two members' is the direct object of the verb 'tasked', the pronouns within the appositive must also be in the object case. Therefore, 'me' should be used instead of 'myself', as 'myself' is a reflexive or intensive pronoun, not a simple object pronoun. The correct phrasing would be '...tasked two members with drafting the crucial proposal: me and the vice-chair...'. Option (C), '[who]', is correct because 'who' is the subject of the verb 'possessed'. Option (D), '[was]', is correct because the singular subject 'depth' agrees with the singular verb 'was'. Option (E), '[its]', is a correct possessive pronoun referring to the singular noun 'proposal' (or 'landscape' or 'regulations', all singular in context).",
+        "category": "CASE"
+    },
+    {
+        "problem": "The ancient text, dense and obscure, presented more interpretive challenges to the eager young scholars than [those] (B) to the seasoned linguists, who had devoted their careers to deciphering similar manuscripts, and [whose] (C) expertise was indispensable for the project, though [it] (D) was ultimately completed by [we] (E) all working together.",
+        "answer": "E",
+        "solution": "Option (E) contains a CASE error. The preposition 'by' requires an object pronoun. 'We' is a subjective pronoun; the objective form is 'us'. Therefore, the phrase should be 'by us all working together'. Options (B), (C), and (D) are all grammatically correct: '[those]' (B) correctly acts as a demonstrative pronoun standing in for 'interpretive challenges' in the elliptical comparison; '[whose]' (C) is the correct possessive relative pronoun modifying 'expertise'; and '[it]' (D) properly functions as a pronoun referring to 'the project'.",
+        "category": "CASE"
+    },
+    {
+        "problem": "Despite the prevailing sentiment that the veteran members [were indispensable] (B), the new recruits proved themselves to be far more resourceful than [them] (C) in adapting to the sudden, unprecedented changes, a fact [which was quickly evident] (D) to everyone [including the skeptical critics] (E).",
+        "answer": "C",
+        "solution": "Option (C), '[them]', contains a CASE error. In an elliptical comparison where the pronoun functions as the subject of an implied verb, it must be in the subject case. The phrase 'far more resourceful than them' implies 'far more resourceful than they (were resourceful)'. Therefore, 'them' should be 'they'.",
+        "category": "CASE"
+    },
+    {
+        "problem": "Despite the unanimous acclaim for her groundbreaking work [on quantum entanglement] (B), the prestigious fellowship was ultimately awarded [to two junior researchers] (C), Dr. Anya Sharma and [he] (D), whose collaborative efforts, though less publicized, [were deemed] (E) more immediately applicable to current projects in theoretical physics.",
+        "answer": "D",
+        "solution": "Option (D) contains a CASE error. The phrase 'Dr. Anya Sharma and he' is an appositive renaming 'two junior researchers.' Since 'two junior researchers' functions as the object of the preposition 'to,' it is in the objective case. Appositives must match the case of the noun they rename. Therefore, the pronoun 'he,' which is in the subjective case, should be 'him,' which is in the objective case. The corrected phrase would be 'Dr. Anya Sharma and him.'",
+        "category": "CASE"
+    },
+    {
+        "problem": "Despite the initial derision from several literary circles, the author\u2019s latest work, a sprawling and experimental novel, has garnered a cult following, much to the chagrin of [its] (B) earliest detractors, [among them] (C) certain prominent academics [who] (D) had declared it unreadable, yet none of them, it seems, ultimately found the prose as impenetrable as [him] (E).",
+        "answer": "E",
+        "solution": "Option (E) contains a CASE error due to an incorrect pronoun in an elliptical construction. The phrase 'as impenetrable as him' implies a comparison between how impenetrable 'none of them' found the prose and how impenetrable 'he' found it. When a comparison like this is made, the omitted verb must be considered. The full clause would be 'as impenetrable as he (found it)'. Therefore, the subject pronoun 'he' should be used, not the object pronoun 'him'.",
+        "category": "CASE"
+    },
+    {
+        "problem": "The reclusive author, whose novels were often more intricate than [they] (B) initially appeared, rarely granted interviews, preferring to communicate only through her publicist and [whomever] (C) she considered a trusted confidante, a practice that frustrated critics and [made] (D) the process of literary analysis more challenging for them than [it was for I] (E).",
+        "answer": "E",
+        "solution": "Option (E) contains a CASE error from the improper use of an elliptical construction involving a preposition. In the phrase 'more challenging for them than it was for I', the pronoun 'I' is incorrectly used. Since 'for' is a preposition, the pronoun functioning as its object must be in the object case. Therefore, 'I' should be replaced with 'me' to form 'than it was for me'.",
+        "category": "CASE"
+    },
+    {
+        "problem": "With [its] (B) implications still unfolding, the recent financial scandal, [which] (C) exposed a labyrinth of offshore accounts and questionable investments, affected our company's reputation more severely than [them] (D) predicted, prompting a swift, albeit [painful] (E), restructuring.",
+        "answer": "D",
+        "solution": "Option (D) contains a CASE error. In the elliptical comparison 'more severely than them predicted,' the pronoun serves as the subject of the implied verb 'predicted.' According to the rules of elliptical constructions, the pronoun must take the subject case to align with its role, meaning 'them' should be 'they.' The full clause would be 'than they predicted it would affect it.'",
+        "category": "CASE"
+    },
+    {
+        "problem": "The complex algorithm, a recent innovation in data analysis, generated results that were surprisingly different for both the lead researcher and [I] (B), prompting a detailed re-evaluation of the initial parameters and [thereby] (C) challenging previous assumptions, a process [which] (D) [they] (E) found both frustrating and illuminating.",
+        "answer": "B",
+        "solution": "Option (B), '[I]', contains a CASE error. In the phrase 'for both the lead researcher and I', 'I' functions as part of a compound object of the preposition 'for'. Pronouns serving as objects of prepositions must be in the object case. Therefore, 'I' (subject case) should be replaced with 'me' (object case). The correct phrasing is 'for both the lead researcher and me'. Options (C), (D), and (E) are grammatically correct. The adverb '[thereby]' (C) correctly introduces a participial phrase indicating the consequence of the preceding action. The relative pronoun '[which]' (D) properly introduces a non-restrictive adjective clause modifying 'process'. The plural pronoun '[they]' (E) correctly refers to the implied subjects (the lead researcher and me), agreeing in number.",
+        "category": "CASE"
+    },
+    {
+        "problem": "The new policy, [though ostensibly designed] (B) for immediate implementation, affects both long-term employees and [we] (C), the recent recruits, [far more profoundly] (D) than [it will ever affect] (E) those temporary workers.",
+        "answer": "C",
+        "solution": "Option (C), 'we', contains a CASE error. In the phrase \"affects both long-term employees and we\", 'we' functions as part of a compound direct object of the verb \"affects\". When a pronoun is used as the object of a verb, it must be in the object case. The correct object form of 'we' is 'us'. Therefore, the sentence should read \"affects both long-term employees and us, the recent recruits.\"",
+        "category": "CASE"
+    },
+    {
+        "problem": "Given the immense pressure to complete the project ahead of schedule, the project manager conceded that the junior team members, [despite their earnest efforts] (B) and undeniable talent, would almost certainly need more direct guidance than [him] (C), a veteran engineer with decades of specialized expertise, a fact [which] (D) he hoped [would not demoralize] (E) them.",
+        "answer": "C",
+        "solution": "Option (C) contains a CASE error in the elliptical construction 'than him'. The comparison is between the 'junior team members' (who would need guidance) and 'he' (the veteran engineer, who would also need guidance, or rather, less guidance). When completing the implied clause, it would read 'than he (would need guidance)'. Since 'he' is the subject of the implied verb 'would need', the pronoun must be in the subject case, 'he', not the object case, 'him'.",
+        "category": "CASE"
+    },
+    {
+        "problem": "Though many observers concede that the new CEO's strategic insights are far more profound than [his predecessor] (B), her unique ability to inspire the workforce to transcend prior limitations [is, without question,] (C) superior to anyone [else's] (D) in the company, making [her] (E) an invaluable asset to the board and shareholders alike.",
+        "answer": "B",
+        "solution": "Option (B) contains a CASE error in an elliptical comparison. The sentence compares the \"CEO's strategic insights\" (a possessive noun phrase) with \"his predecessor.\" For a grammatically parallel and logical comparison, the insights of the CEO should be compared to the insights of the predecessor. Therefore, \"his predecessor\" should be in the possessive case, \"his predecessor's,\" implying \"his predecessor's [insights].\" Without the possessive marker, the comparison is incomplete and grammatically unsound.",
+        "category": "CASE"
+    },
+    {
+        "problem": "Despite the fervent pleas from a vocal minority, the municipal council, [many of who] (B) had campaigned on platforms of fiscal austerity, voted to approve the ambitious urban redevelopment project, [a decision that many citizens considered] (C) both short-sighted and fiscally irresponsible, [causing widespread public outcry] (D) and [a deep divide] (E) within the community.",
+        "answer": "B",
+        "solution": "Option (B) contains a CASE error. In the phrase 'many of who,' the pronoun 'who' is the object of the preposition 'of.' According to the rules of pronoun case, a pronoun acting as the object of a preposition must be in the object case. Therefore, 'who' should be 'whom,' resulting in the correct phrase 'many of whom.'",
+        "category": "CASE"
+    },
+    {
+        "problem": "Although the new recruit demonstrated a surprising aptitude for advanced computational linguistics, the department head, Dr. Elara Vance, openly acknowledged that she found his predecessor, a seasoned veteran of the field, [more formidable a debater] (B) than [him] (C) currently was, a sentiment that [perplexed many of] (D) the junior researchers [who admired] (E) the recruit's sharp intellect.",
+        "answer": "C",
+        "solution": "Option (C) contains a CASE error. In an elliptical construction, the pronoun's case is determined by the implied verb. The comparison 'more formidable a debater than him currently was' implicitly means 'more formidable a debater than he currently was.' Since the pronoun serves as the subject of the implied verb 'was,' it must be in the subject case ('he'), not the object case ('him'). Therefore, 'than he' is the correct form.",
+        "category": "CASE"
+    },
+    {
+        "problem": "The committee, composed of individuals [whom] (B) many considered to be exceptionally insightful, decided to grant the coveted 'Visionary of the Year' award to [whomever] (D) they determined possessed the most innovative blueprint for the future of sustainable urban development, a decision that surprised very few people [who] (E) understood their rigorous selection criteria.",
+        "answer": "D",
+        "solution": "Option (D) contains a CASE error. In the phrase 'to [whomever] (D) they determined possessed the most innovative blueprint,' the pronoun 'whomever' introduces a noun clause that is the object of the preposition 'to'. However, within this noun clause, the pronoun functions as the subject of the verb 'possessed' (i.e., 'who possessed'). The phrase 'they determined' is a parenthetical expression and does not change the case of the pronoun that serves as the subject of its own clause. Therefore, the subject form 'whoever' should be used instead of the object form 'whomever'. Option (B) is correct because 'whom' is the object of the verb 'considered' (many considered whom). Option (E) is correct because 'who' is the subject of the verb 'understood' (people understood).",
+        "category": "CASE"
+    },
+    {
+        "problem": "The renowned astrophysicist, who had always advocated for public engagement in science, explained that the telescope [only allowed] (B) viewers to discern celestial bodies of a certain magnitude and [that] (C) smaller objects [remained invisible] (D) to the naked eye [despite its powerful lenses] (E).",
+        "answer": "B",
+        "solution": "Option (B) contains a MISPLACED MODIFIER (MM). The adverb 'only' is misplaced. As written, 'only allowed' ambiguously suggests that the sole action the telescope performed was allowing discernment, rather than limiting *what* could be discerned. For the intended meaning\u2014that the telescope permitted the discernment *exclusively* of celestial bodies of a certain magnitude\u2014'only' should modify 'celestial bodies of a certain magnitude'. The correct placement would be: 'the telescope allowed viewers to discern only celestial bodies of a certain magnitude'. Options (C), (D), and (E) are grammatically sound. Option (C) uses 'that' correctly to maintain parallelism for the noun clauses introduced by 'explained that'. Option (D) 'remained invisible' correctly agrees in number with the plural subject 'smaller objects' and is in a consistent tense. Option (E) 'despite its powerful lenses' properly uses the possessive pronoun 'its' to refer to 'telescope' and functions as a correct prepositional phrase.",
+        "category": "MM"
+    },
+    {
+        "problem": "Having painstakingly crafted his latest work over a period of five years, [the famous artist] (B) unveiled a new sculpture depicting a mythical beast with three heads and a serpentine body, [which had been anticipated by critics for months,] (C) and was immediately hailed [as a masterpiece,] (D) [driving up] (E) attendance at the gallery.",
+        "answer": "C",
+        "solution": "Option (C) contains a Misplaced Modifier (MM) error. The adjective clause '[which had been anticipated by critics for months,]' is intended to modify 'sculpture' but is separated from it by a long descriptive phrase ('depicting a mythical beast with three heads and a serpentine body'). This placement incorrectly suggests that the nearest noun, 'body', was anticipated by critics, rather than the 'sculpture' itself, thus creating an illogical modification. Adjective clauses must immediately follow the noun they modify. Options (B), (D), and (E) are grammatically sound: '[the famous artist]' (B) is the clear subject of the main clause following a correct introductory participial phrase; '[as a masterpiece,]' (D) correctly completes the verb 'hailed'; and '[driving up]' (E) is a properly used participial phrase describing the consequence of the sculpture's reception.",
+        "category": "MM"
+    },
+    {
+        "problem": "Patients with advanced heart disease should [only be advised] (B) to undergo the experimental procedure [after all conventional treatments] (C) have proven ineffective, [considering the inherent risks] (D) and the experimental nature of the intervention itself, [which often produces unpredictable outcomes.] (E)",
+        "answer": "B",
+        "solution": "Option (B) contains a MISPLACED MODIFIER (MM) error. The adverb 'only' is placed before 'be advised,' suggesting that advising is the *sole* action to be taken (as opposed to, for example, compelling or directly treating). However, the logical intent of the sentence is to state that the advice should be given *only after* conventional treatments have failed. Therefore, 'only' should modify the condition under which the advice is given ('after all conventional treatments have proven ineffective'). The correct placement would be 'should be advised only to undergo...' or 'should be advised to undergo the experimental procedure only after...'. This misplacement subtly alters the meaning of the sentence.",
+        "category": "MM"
+    },
+    {
+        "problem": "The ancient text, discovered in a hidden cave, [only] (B) mentions the ritual sacrifices of ancient kings in a fleeting passage, [leading historians to question] (C) the true extent of such practices, [despite] (D) its detailed descriptions of other royal customs and traditions [from that era] (E).",
+        "answer": "B",
+        "solution": "Option (B) contains a MISPLACED MODIFIER error. The adverb '[only]' is incorrectly placed. Its current position before 'mentions' suggests that the text *only* performs the action of mentioning (as opposed to, for example, describing extensively or condemning). However, the context of 'in a fleeting passage' indicates that the intended meaning is that the ritual sacrifices are mentioned *only in a fleeting passage*, implying a limited scope of discussion within the text. For correct meaning, 'only' should be placed immediately before the phrase it logically modifies: 'in a fleeting passage'.",
+        "category": "MM"
+    },
+    {
+        "problem": "The professor assigned the difficult essay, which required extensive research and critical thinking, to her most advanced students [who only understood] (B) its complex instructions [after reading them] (C) multiple times, causing a significant delay [in their submission] (D) and [leading to] (E) widespread frustration.",
+        "answer": "B",
+        "solution": "Option (B) contains a MISPLACED MODIFIER (MM) error with the adverb 'only'. As currently placed ('who only understood'), 'only' ambiguously modifies the verb 'understood', suggesting that understanding was the sole action they performed or that their understanding was limited. However, the context of 'after reading them multiple times' indicates that 'only' is intended to modify the condition or timing of their understanding. The intended meaning is that they understood the instructions *only after* reading them multiple times. To correct this, 'only' should be placed immediately before the phrase it modifies: 'who understood its complex instructions only after reading them multiple times,' ensuring it is closer to the phrase 'after reading them multiple times' than to 'understood'.",
+        "category": "MM"
+    },
+    {
+        "problem": "The renowned historian unveiled her controversial new theory about the collapse of ancient civilizations, [suggesting that] (B) subtle shifts in agricultural practices, [rather than external invasions,] (C) played a more pivotal role in their demise [during the highly anticipated annual conference] (D), a conclusion that was immediately met with both fervent praise [and skeptical critique] (E) from her peers.",
+        "answer": "D",
+        "solution": "Option (D), '[during the highly anticipated annual conference]', contains a MISPLACED MODIFIER (MM). This adverbial phrase is intended to modify the main verb 'unveiled', indicating when the historian presented her theory. However, its placement at the end of the sentence makes it appear to modify the nearer verb 'played', illogically suggesting that the 'role in their demise' occurred during the conference. The phrase should be placed closer to 'unveiled' for clarity, such as 'During the highly anticipated annual conference, the renowned historian unveiled...'. Options (B), (C), and (E) present no grammatical errors: (B) 'suggesting that' correctly introduces a participial phrase and a noun clause; (C) 'rather than external invasions,' is a grammatically sound elliptical comparison parallel to 'subtle shifts in agricultural practices'; and (E) 'and skeptical critique' correctly completes the parallel structure initiated by 'both fervent praise'.",
+        "category": "MM"
+    },
+    {
+        "problem": "The notoriously reclusive author, whose latest novel had garnered critical acclaim and a devoted readership, had, for nearly a decade, [only communicated] (B) with her editor through cryptic, handwritten notes, [sent via] (C) a specialized courier service known for its discretion, a practice [which some] (D) found charmingly anachronistic, yet she [still managed] (E) to cultivate an intensely loyal following.",
+        "answer": "B",
+        "solution": "Option (B), '[only communicated]', contains a MISPLACED MODIFIER (MM). The adverb 'only' is intended to restrict the *means* of communication to 'through cryptic, handwritten notes'. To clearly and unambiguously convey this meaning, 'only' should be placed immediately before the phrase it modifies. The correct placement would be 'communicated only through cryptic, handwritten notes.' As written, 'only communicated' could illogically suggest that the *only action* she took was communicating, or it creates an ambiguity that an accurate placement would resolve.",
+        "category": "MM"
+    },
+    {
+        "problem": "He [only] (B) understood the profound implications of his decision after the irreversible consequences had already manifested, [a realization that brought him no comfort] (C) [and left him] (D) grappling with a pervasive sense of regret [for years] (E).",
+        "answer": "B",
+        "solution": "Option (B) contains a MISPLACED MODIFIER (MM) error with the adverb 'only'. Placed before 'understood', it incorrectly suggests that *understanding* was the sole action he performed. The intended meaning is to emphasize that he grasped the implications *not before* the consequences manifested, but *only after* them. For correct emphasis on the timing, 'only' should be placed immediately before the phrase it modifies, such as 'after the irreversible consequences had already manifested', or the sentence should be restructured (e.g., 'He understood the profound implications of his decision *only after* the irreversible consequences had already manifested.').",
+        "category": "MM"
+    },
+    {
+        "problem": "The team leader, known for his incisive strategic planning, often advised junior analysts on complex financial models [that could revolutionize their approach] (B) with an air of profound wisdom [during intense brainstorming sessions] (C) where even the slightest miscalculation [could lead] (D) to catastrophic market losses, a scenario [which] (E) everyone meticulously sought to prevent.",
+        "answer": "B",
+        "solution": "Option (B) contains a MISPLACED MODIFIER (MM) error. The adjective clause 'that could revolutionize their approach' is intended to modify 'complex financial models'. However, its placement immediately after 'junior analysts' suggests that the *junior analysts* are the ones who could revolutionize their approach, not the financial models. Adjective clauses must be placed as close as possible to the noun they modify to avoid such ambiguity. The other options are grammatically sound: (C) 'during intense brainstorming sessions' is an adverbial phrase correctly modifying 'advised'; (D) 'could lead' is a grammatically correct verb phrase agreeing with its singular subject 'miscalculation'; and (E) 'which' correctly introduces an adjective clause modifying the specific noun 'scenario' that precedes it.",
+        "category": "MM"
+    },
+    {
+        "problem": "The art historian, after meticulously restoring the Renaissance fresco, [unveiled] (B) the vibrant colors and intricate details to a captivated audience, [which had been hidden for centuries] (C) under layers of grime and neglect, and [was met] (D) with thunderous applause, a recognition [that validated] (E) years of painstaking work.",
+        "answer": "C",
+        "solution": "Option (C) contains a Misplaced Modifier (MM) error. The relative clause '[which had been hidden for centuries]' is intended to describe the 'vibrant colors and intricate details' but its placement immediately after 'audience' grammatically links it to 'audience'. This creates an illogical meaning, suggesting that the audience had been hidden for centuries, rather than the fresco's colors and details. To correct this, the clause should be placed closer to the noun it is intended to modify, for instance: '...unveiled the vibrant colors and intricate details, which had been hidden for centuries under layers of grime and neglect, to a captivated audience...'. Options (B), (D), and (E) are grammatically correct; '[unveiled]' (B) is the correct past tense verb; '[and was met]' (D) correctly uses parallelism to connect with 'unveiled' as a predicate of 'The art historian'; and '[that validated]' (E) correctly introduces an adjective clause modifying 'recognition'.",
+        "category": "MM"
+    },
+    {
+        "problem": "Having meticulously recalibrated the primary lens and adjusted for atmospheric distortion, [the renowned astronomer, whose patience was legendary] (B), finally located the enigmatic nebula [that had been subtly shifting its position for decades] (C) [with the newly installed adaptive optics system.] (D) He then published his groundbreaking findings in a prestigious peer-reviewed journal.",
+        "answer": "D",
+        "solution": "The prepositional phrase '[with the newly installed adaptive optics system.]' (D) is a misplaced modifier. It is intended to modify the verb 'located,' indicating the means by which the astronomer found the nebula. However, its placement at the end of the clause 'that had been subtly shifting its position for decades' illogically suggests that the nebula was 'shifting its position' using the adaptive optics system, creating an absurd meaning. The phrase should be placed closer to 'located' for clarity.",
+        "category": "MM"
+    },
+    {
+        "problem": "The eminent scientist, known for [his] (B) groundbreaking discoveries, proposed a radical new theory to the panel of experts [that challenged long-held paradigms] (C), a proposal [which was met with initial skepticism] (D) but eventually gained acceptance, demonstrating the crucial role of evidence [in shaping scientific understanding] (E).",
+        "answer": "C",
+        "solution": "Option (C) contains a MISPLACED MODIFIER (MM) error. The adjective clause '[that challenged long-held paradigms]' is positioned immediately after 'panel of experts.' While the logical meaning strongly suggests that the 'radical new theory' is what challenged the long-held paradigms, the grammatical placement creates ambiguity, making it seem as though the 'panel of experts' could be the subject performing the action of challenging. To avoid this ambiguity, the clause must immediately follow the noun it modifies, 'theory,' for instance: 'proposed a radical new theory that challenged long-held paradigms to the panel of experts.'",
+        "category": "MM"
+    },
+    {
+        "problem": "Students may [only submit] (B) their applications for the advanced theoretical physics course after receiving a passing grade in the prerequisite, a [stipulation] (C) that has caused considerable frustration among those eager to progress but who have struggled with the particularly challenging material [all semester] (D), leading many to question the department's policy [regrettably] (E).",
+        "answer": "B",
+        "solution": "Option (B), '[only submit]', contains a Misplaced Modifier (MM) error. The adverb 'only' is intended to restrict the condition under which applications can be submitted, implying that submission is permissible *only after* a passing grade is received. However, its current placement, 'only submit', incorrectly implies that submitting is the *sole action* students may perform with their applications, thereby altering the intended meaning. To correct this, 'only' should be placed immediately before the phrase it modifies: 'Students may submit their applications... only after receiving a passing grade...'. The other options are grammatically sound: (C) 'a stipulation' correctly functions as an appositive; (D) 'all semester' is a properly placed adverbial phrase modifying 'have struggled'; and (E) 'regrettably' is acceptably placed as an adverb modifying the preceding clause or expressing the speaker's sentiment.",
+        "category": "MM"
+    },
+    {
+        "problem": "Professor Albright published her groundbreaking research on the social structures of ancient civilizations [that had taken her more than two decades to complete] (B) in a prestigious academic journal, [thereby establishing] (C) her as a leading expert in the field and [solidifying] (D) the new interpretive framework [she had proposed] (E).",
+        "answer": "B",
+        "solution": "Option (B) contains a Misplaced Modifier (MM) error. The adjective clause \"that had taken her more than two decades to complete\" is intended to modify \"research,\" specifying the duration of the research effort. However, its placement immediately after \"ancient civilizations\" creates an illogical implication that the \"ancient civilizations\" themselves took more than two decades to complete. Adjective clauses must be placed directly after the noun they modify to ensure clarity and avoid such nonsensical meanings. Options (C) and (D) are correctly used as parallel participial phrases, describing the consequences of the publication. Option (E) is a grammatically sound elliptical adjective clause modifying \"framework.\"",
+        "category": "MM"
+    },
+    {
+        "problem": "The ancient manuscript, discovered in a forgotten monastery, describes a peculiar ritual [for summoning an eldritch entity] (B), [involving intricate incantations] (C) and a rare lunar alignment, [that supposedly granted immense power] (D) to the practitioner, [a claim widely dismissed] (E) by modern scholars.",
+        "answer": "D",
+        "solution": "Option (D) contains a MISPLACED MODIFIER (MM) error. The adjective clause '[that supposedly granted immense power]' is intended to modify 'ritual', as the ritual itself is what grants power. However, it is positioned after 'lunar alignment', leading to the misleading implication that the 'lunar alignment' is what granted immense power. Adjective clauses must immediately follow the noun they modify to ensure clarity and avoid such ambiguity.",
+        "category": "MM"
+    },
+    {
+        "problem": "The renowned historian meticulously chronicled the events of the often-overlooked peasant rebellion [in her latest book] (B), emphasizing [the role of the disenfranchised] (C) and the desperation that fueled the uprising, even though [many contemporaries viewed it] (D) as a mere banditry, [through extensive archival research conducted over two decades] (E).",
+        "answer": "E",
+        "solution": "Option (E), '[through extensive archival research conducted over two decades]', is a MISPLACED MODIFIER. This adverbial phrase is intended to modify the verb 'chronicled' at the beginning of the sentence, explaining *how* the historian performed the chronicling. However, its placement at the very end of the sentence, after the subordinate clause 'even though many contemporaries viewed it as a mere banditry,' creates an awkward and illogical connection. This placement might incorrectly suggest that the *viewing* or the *banditry* occurred 'through extensive archival research,' neither of which makes logical sense. For clarity, the modifier should be placed closer to 'chronicled,' for example, 'The renowned historian, through extensive archival research conducted over two decades, meticulously chronicled...' or 'The renowned historian meticulously chronicled... in her latest book, through extensive archival research....'",
+        "category": "MM"
+    },
+    {
+        "problem": "The committee decided [only to award] (B) the scholarship to students who demonstrated exceptional financial need and academic merit, a decision (C) that (D) sparked considerable debate among the faculty (E).",
+        "answer": "B",
+        "solution": "Option (B) contains a MISPLACED MODIFIER (MM). The adverb 'only' is placed directly before 'to award', which implies that the committee's sole action was to award, rather than, for example, deny or postpone. However, the logical intent of the sentence is to restrict *who* receives the scholarship, meaning 'only' should modify 'students'. The corrected sentence would read: 'The committee decided to award the scholarship *only* to students who demonstrated exceptional financial need and academic merit...' This revised placement clarifies that the restriction applies to the recipients, not the act of awarding itself.",
+        "category": "MM"
+    },
+    {
+        "problem": "Students in the [advanced calculus] (B) course were struggling with the complex proofs [that their] (C) professor assigned [repeatedly during] (D) office hours, even though they had access [to numerous] (E) online tutorials.",
+        "answer": "D",
+        "solution": "Option (D) contains a MISPLACED MODIFIER (MM). The adverbial phrase 'repeatedly during office hours' is intended to modify the verb 'assigned,' indicating that the professor assigned the proofs repeatedly at that time. However, its current position at the end of the sentence creates an ambiguity, making it seem to modify 'struggling' or the entire preceding clause, implying that the students were struggling repeatedly during office hours. This unintended meaning or ambiguity constitutes a misplaced modifier.",
+        "category": "MM"
+    },
+    {
+        "problem": "Having dedicated their entire careers to unearthing historical truths, the renowned archaeological team finally presented their most extraordinary find, a perfectly preserved obsidian mirror, to the international scientific community, [which] (E) [had been painstakingly excavated from a deep volcanic ash layer].",
+        "answer": "E",
+        "solution": "Option (E) contains a Misplaced Modifier (MM) error. The adjective clause 'which had been painstakingly excavated from a deep volcanic ash layer' is intended to modify 'a perfectly preserved obsidian mirror'. However, it is improperly separated from its antecedent by 'to the international scientific community'. Adjective clauses must immediately follow the noun they modify, and its current placement creates ambiguity by appearing to modify 'community' rather than 'mirror'.",
+        "category": "MM"
+    },
+    {
+        "problem": "Though [it was generally believed] (B) that the expedition had failed utterly, one intrepid cartographer, [who, despite all odds,] (C) persisted in his meticulous surveys, eventually located an uncharted mountain range [that would only appear] (D) on maps compiled by the most sophisticated modern instruments, [thereby proving] (E) the earlier claims spurious.",
+        "answer": "D",
+        "solution": "Option (D) contains a MISPLACED MODIFIER error. The word 'only' is an adverb that should be placed immediately before the word or phrase it modifies. In the phrase '[that would only appear]', 'only' is intended to modify 'on maps compiled by the most sophisticated modern instruments', indicating that the mountain range would appear *exclusively* on those maps. However, its current placement before 'appear' suggests that the mountain range *only performed the action of appearing* and did nothing else, which is not the intended meaning. The correct placement would be 'that would appear only on maps compiled by the most sophisticated modern instruments'.",
+        "category": "MM"
+    },
+    {
+        "problem": "Having meticulously analyzed the spectral data from distant galaxies, [the hypothesis regarding dark matter's elusive nature] (B) seemed more plausible than ever, providing physicists with a renewed sense of purpose [as they embarked] (C) on further investigations and [began refining] (D) their theoretical models, a process [that demanded] (E) both creativity and rigor.",
+        "answer": "B",
+        "solution": "Option (B) contains a DANGLING MODIFIER (DM) error. The introductory participial phrase 'Having meticulously analyzed the spectral data from distant galaxies' implies a subject that performed the analysis (e.g., scientists or researchers). However, the grammatical subject of the main clause that follows is 'the hypothesis regarding dark matter's elusive nature'. A hypothesis cannot logically 'analyze' data, thus creating an illogical and grammatically disconnected construction. To correct this, the implied subject of the introductory phrase must match the subject of the main clause, or the sentence must be rephrased to explicitly state the actor.",
+        "category": "DM"
+    },
+    {
+        "problem": "Having meticulously crafted the intricate legal brief, [the filing deadline loomed] (B) ominously, its demands for immediate submission creating considerable stress for the entire legal team, a situation [which] (D) even challenged [its] (E) usually unflappable lead attorney.",
+        "answer": "B",
+        "solution": "Option (B) contains a Dangling Modifier (DM) error. The introductory participial phrase 'Having meticulously crafted the intricate legal brief' implies a subject that performs the action of crafting, such as a paralegal or an attorney. However, the grammatical subject of the main clause that follows is 'the filing deadline,' which cannot logically perform the action of crafting a brief. Therefore, the phrase 'Having meticulously crafted...' is left 'dangling' without a clear and logical subject to modify. To correct this, the sentence should be restructured so that the subject of the main clause is the one who crafted the brief.",
+        "category": "DM"
+    },
+    {
+        "problem": "Intending to meticulously document every nuance of the celestial event, [the telescope was calibrated] (B) with an unprecedented precision [by the astronomers] (C), [who, despite] (D) numerous unforeseen challenges, remained steadfast [in their commitment] (E) to scientific inquiry.",
+        "answer": "B",
+        "solution": "Option (B) contains a Dangling Modifier (DM) error. The introductory participial phrase 'Intending to meticulously document every nuance of the celestial event' implies that the one performing the action of 'intending' is 'the astronomers'. However, the grammatical subject of the main clause that follows is 'the telescope'. A telescope cannot 'intend' to document an event. Therefore, the phrase dangles because its implied subject ('the astronomers') is not the subject of the main clause ('the telescope').",
+        "category": "DM"
+    },
+    {
+        "problem": "Having meticulously analyzed the historical documents and archaeological findings, [the prevailing theory among scholars] (B) regarding the ancient civilization's decline [was significantly revised] (C), demonstrating a more nuanced understanding [than previously thought] (D) of the interplay between environmental factors [and societal collapse] (E).",
+        "answer": "B",
+        "solution": "Option (B) contains a DANGLING MODIFIER (DM) error. The introductory participial phrase \"Having meticulously analyzed the historical documents and archaeological findings\" implies that the subject of the main clause performed the action of analyzing. However, the subject of the main clause is \"the prevailing theory,\" which cannot logically perform the action of analyzing historical documents and findings. It is the 'scholars' who would perform the analysis, not the 'theory' itself. For the sentence to be grammatically correct, the subject of the main clause must be the agent of the action described in the participial phrase, or the phrase must be restructured.",
+        "category": "DM"
+    },
+    {
+        "problem": "[Having meticulously researched the elusive cryptid for years,] (B) its existence remained a fervent debate among cryptozoologists, despite the lack of conclusive evidence [that would] (C) satisfy rigorous scientific scrutiny, a fact [which] (D) further fueled [its] (E) mystique.",
+        "answer": "B",
+        "solution": "The introductory participial phrase '[Having meticulously researched the elusive cryptid for years,]' (B) is a Dangling Modifier (DM). The implied subject of the participle 'researched' is a person or group who conducted the research, but the grammatical subject of the main clause that follows is 'its existence,' which cannot logically perform the action of researching.",
+        "category": "DM"
+    },
+    {
+        "problem": "Having painstakingly crafted each chapter over several years, [the novel] (B) ultimately reflected the author's dedication to historical accuracy and rich character development, [leading] (C) to widespread critical acclaim and popular success, [a narrative feat] (D) that few contemporary authors could rival in [their] (E) generation.",
+        "answer": "B",
+        "solution": "Option (B) contains a DANGLING MODIFIER (DM). The introductory participial phrase 'Having painstakingly crafted each chapter over several years' implies that the *author* is the one who performed the action of crafting. However, the grammatical subject of the main clause that follows is 'the novel'. Since the novel itself did not perform the action of crafting its chapters, the participial phrase lacks a logical subject, thus dangling. The sentence should be restructured so that the subject immediately following the introductory phrase is the entity that performed the crafting (e.g., 'Having painstakingly crafted each chapter over several years, *the author* ultimately saw his novel reflect...').",
+        "category": "DM"
+    },
+    {
+        "problem": "Having meticulously researched esoteric legal precedents, [a surprising verdict was] (B) ultimately rendered by the jury, much to the chagrin of the prosecution, [which had] (C) confidently predicted a conviction, and to the relief of the defense, [who, despite] (D) their initial doubts, had never truly lost faith in their client, [believing him] (E) innocent all along.",
+        "answer": "B",
+        "solution": "Option (B) contains a DANGLING MODIFIER (DM). The introductory participial phrase 'Having meticulously researched esoteric legal precedents' describes an action performed by someone. The grammatical subject of the main clause that immediately follows is 'a surprising verdict'. A verdict cannot logically perform the action of researching legal precedents. Therefore, the implied subject of the participial phrase (presumably the jury or the lawyers) does not match the grammatical subject of the main clause, creating a dangling modifier. For instance, the sentence could be rephrased as 'Having meticulously researched esoteric legal precedents, the jury ultimately rendered a surprising verdict...'.",
+        "category": "DM"
+    },
+    {
+        "problem": "Having been meticulously reviewed by several experts, [the committee concluded] (B) that the proposal, [despite its initial perceived flaws,] (C) was sound, [a judgment proving] (D) crucial, especially [given the project's complexity] (E).",
+        "answer": "B",
+        "solution": "Option (B) contains a Dangling Modifier (DM) error. The introductory participial phrase 'Having been meticulously reviewed by several experts' implies that 'the proposal' was the entity that underwent review. However, the subject of the main clause that immediately follows the phrase is 'the committee'. Since the committee was not reviewed, the participial phrase is left without a proper noun to modify, incorrectly suggesting that 'the committee' was meticulously reviewed by several experts, rather than the proposal.",
+        "category": "DM"
+    },
+    {
+        "problem": "To fully appreciate the intricacies of quantum entanglement, [it] (B) is imperative that the concept of superposition be grasped by the student, who often finds it counterintuitive, leading to profound insights once understood.",
+        "answer": "B",
+        "solution": "Option (B) contains a DANGLING MODIFIER (DM) error. The introductory infinitive phrase 'To fully appreciate the intricacies of quantum entanglement' implies a subject capable of performing the action of 'appreciating' (e.g., a student, or one). However, the grammatical subject of the main clause that immediately follows is the dummy pronoun 'it'. A dummy 'it' cannot perform the action of appreciating quantum entanglement, causing the introductory phrase to dangle. The sentence should be restructured so that the subject of the main clause is logically capable of performing the action expressed in the infinitive phrase.",
+        "category": "DM"
+    },
+    {
+        "problem": "The aspiring musician, a prodigy from a young age, knew that [to gain a competitive edge] (B), years of relentless practice [were absolutely essential] (C), [whose dedication] (D) to mastering complex compositions [was widely considered] (E) unparalleled.",
+        "answer": "B",
+        "solution": "Option (B), '[to gain a competitive edge]', contains a DANGLING MODIFIER (DM). The infinitive phrase 'to gain a competitive edge' implies 'the aspiring musician' as its subject, as it is the musician who would gain the edge. However, the grammatical subject of the main clause that immediately follows this phrase is 'years of relentless practice'. Since 'years of relentless practice' cannot logically perform the action of 'gaining a competitive edge', the introductory infinitive phrase dangles, lacking a proper subject to modify.",
+        "category": "DM"
+    },
+    {
+        "problem": "Though often overlooked in historical accounts, [having fundamentally shaped] (B) the geopolitical landscape, the true impact of minor skirmishes [remains] (C) a subject of intense debate among military strategists, [who frequently minimize] (D) [their] (E) long-term consequences.",
+        "answer": "B",
+        "solution": "Option (B), '[having fundamentally shaped]', creates a dangling modifier (DM). The participial phrase 'having fundamentally shaped the geopolitical landscape' logically implies that 'minor skirmishes' are the agents that performed the shaping. However, the grammatical subject of the main clause is 'the true impact', which cannot logically perform the action of 'shaping the geopolitical landscape'. This grammatical disconnect results in a dangling modifier, as the introductory verbal phrase lacks a clear and logical subject in the main clause.",
+        "category": "DM"
+    },
+    {
+        "problem": "Determined to resolve the longstanding debate concerning the precise dating of the pottery shards, [extensive carbon dating was employed] (B) by the research team, [leading] (C) to a groundbreaking revision [of historical timelines] (D) and [reshaping] (E) archaeological theory.",
+        "answer": "B",
+        "solution": "Option (B), '[extensive carbon dating was employed]', contains a DANGLING MODIFIER. The introductory participial phrase 'Determined to resolve the longstanding debate concerning the precise dating of the pottery shards' implies that the 'research team' (or individuals within it) is the one 'determined' to resolve the debate. However, the subject of the main clause is 'extensive carbon dating', which cannot logically be 'determined'. This mismatch between the implied subject of the introductory phrase and the actual subject of the main clause creates a dangling modifier. Options (C), 'leading', and (E), 'reshaping', are participial phrases correctly modifying the outcome or action of the preceding clause. Option (D), 'of historical timelines', is a grammatically correct prepositional phrase.",
+        "category": "DM"
+    },
+    {
+        "problem": "Having meticulously researched ancient cartography and deciphered obscure navigational texts, [the lost continent of Atlantis was believed] (B) to be discoverable by the intrepid explorer; [a belief strongly held] (C) by many, [but which lacked] (D) concrete archaeological support and [that only] (E) fueled his solitary, relentless quest.",
+        "answer": "B",
+        "solution": "Option (B) contains a Dangling Modifier (DM). The introductory participial phrase 'Having meticulously researched ancient cartography and deciphered obscure navigational texts' implies 'the intrepid explorer' as its subject, as the explorer is the one performing the research and deciphering. However, the grammatical subject of the main clause that follows is 'the lost continent of Atlantis'. Since the continent did not perform the actions of researching and deciphering, the introductory phrase dangles, lacking a proper subject to modify.",
+        "category": "DM"
     }
 ]

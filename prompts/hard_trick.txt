@@ -299,7 +299,7 @@ If you encounter such a verbal on a test, you can legitimately label it either a
     "problem": "Once the memoir was released, [with] (B) [its] (C) fragmented prose and deliberately inconsistent chronology, [it became clear] (D) that the audience would not respond uniformly, a response [which] (E) frustrated reviewers who struggled to determine the memoir’s purpose.",
     "solution": "The sentence contains no grammatical errors: the preposition '[with]' (B) correctly introduces a modifying phrase without creating an incomplete sentence or an improperly joined one; the possessive pronoun '[its]' (C) clearly refers to the singular noun 'memoir'; the phrase '[it became clear]' (D) properly uses 'it' as a dummy subject for the subsequent noun clause; and the relative pronoun '[which]' (E) appropriately introduces an adjective clause modifying the specific noun 'response' that immediately precedes it.",
     "answer": "A",
-    "type": "A"
+    "category": "A"
   }
 </example>
 <example>
@@ -307,7 +307,7 @@ If you encounter such a verbal on a test, you can legitimately label it either a
     "problem": "If I [was] (B) in Ms. Tan's class and [in] (C) your situation, I would ask the academic dean[, who is very harsh,] (D) and [Ms. Tan] (E) for an extension on the history paper.",
     "solution": "Option (B), 'was', is an AGREEMENT error. The sentence begins with 'If' and describes a hypothetical or contrary-to-fact situation ('If I was... I would ask...'), which requires the subjunctive mood for the verb in the 'if' clause. For the verb 'to be' in the past subjunctive, the correct form for all persons is 'were'. Therefore, the sentence should read 'If I were in Ms. Tan's class...'",
     "answer": "B",
-    "type": "AGREE"
+    "category": "AGREE"
   }
 </example>
 <example>
@@ -315,7 +315,7 @@ If you encounter such a verbal on a test, you can legitimately label it either a
     "problem": "[The pot boiling from the flames,] (B) the special potion was made by the evil witch [despite] (C) the [pot’s] (D) [near] (E) bursting.",
     "solution": "The sentence contains no grammatical errors. Option (B), '[The pot boiling from the flames,]', is a correct absolute phrase. The preposition '[despite]' (C) correctly introduces a phrase indicating contrast. The possessive noun '[pot’s]' (D) is appropriately used before the gerund 'bursting', as the rules for case dictate that a noun or pronoun before a gerund should be in the possessive form. Finally, '[near]' (E) functions correctly as an adjective modifying 'bursting'.",
     "answer": "A",
-    "type": "A"
+    "category": "A"
   }
 </example>
 <example>
@@ -323,6 +323,6 @@ If you encounter such a verbal on a test, you can legitimately label it either a
     "problem": "Timmy had a poor score on the Megablunders exam [because] (B) he made a couple of silly mistakes[, but, to be fair,] (C) I would probably have gotten the same score as [his] (D) if I [had been] (E) in the same noisy environment.",
     "solution": "Option (D) contains a CASE error from the improper use of an elliptical construction. The pronoun must match its predecessor's type (subject or object): “…the same score as he [had],” not “…the same score as his.",
     "answer": "D",
-    "type": "CASE"
+    "category": "CASE"
   }
 </example>
